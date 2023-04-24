@@ -1,29 +1,22 @@
-# Process Files Excels.
+# Shortened urls.
 
-_CHALLENGE BACKEND_
 
-_Se desea crear un servicio de carga de excels con validación de formato y notificación de procesamiento._
-
-_El servicio debe presentar una api con un endpoint que permita hacer un upload de un archivo excel conjunto a un formato de mapeo que deberá respetar y una callback para informar cuando el archivo pasa de estado._
-
-_Al subir el excel, se deberá retornar un id haciendo referencia a la tarea de carga._
-
-_Se deberá permitir recuperar el estado de dicha tarea la cual permitirá saber si el excel está en estado “pending” si todavía no se está procesando el archivo, “processing” o “done” e informar en “errors” la cantidad de errores encontrados en el archivo. Se deberá permitir recuperar los errores del archivo de forma paginada, indicando la fila y columna que ocasionó el error_
+_Se servicio para acortar urls, y darle a marketing una herramienta para lograr enviarlas con la cantidad minima de carácteres_
 
 
 ## Trabajo realizado
 
-_- Se Crean tres enpoint uno de permisos (token de consumo), un post y un get_
+_- Se Crean varios enpoint uno de permisos (token de consumo)y los otros para la funcionalidad del servicio_
 
-_- Se carga un file con un formato establecido y se procesa en dos parte a nivel de base de datos_
+_- Se trabajar con una migración basica de un user para obtener el token y lograr usar el servicio_
 
-_- Se validan los enpoints_
+_- Se validan los enpoints por token_
 
 _- Se trabaja con docker para la creacion de los ambientes necesarios para ejecutar el proyecto_
 
-_- Se trabaja con NodeJs, Mongo, ExpressJs y TypeScrips_
+_- Se trabaja con python -FastApi, MongoDB, Redis, entre otros_
 
-_- Los servicios estan en postman, y los archivos en la raiz del proyecto._
+_- Los servicios estan en postman, y las  documentacion de fastapi y se dejaran los archivos en la raiz del proyecto._
 
 
 ## Iniciemos 🚀
@@ -34,8 +27,8 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 ### Pre-requisitos 📋
 
 _Tener instalado lo siguiente:_
-_Node_
-_Npm (en mi caso trabajé coon la Versión 14)_
+_Python3.9 en mi caso_
+_Pip_
 _Docker_
 
 ### Instalación 🔧
@@ -44,35 +37,24 @@ _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener 
 
 _1. Clonar el proyecto_
 ```bash
-git clone https://github.com/dperea10/process-files-challenge.git
+git clone https://github.com/dperea10/shortener-services.git
 ```
 
 _2. ingresar a la carperta "cd "nombre del proyecto"_
 ```bash
-cd process-files-challenge
+cd shortener-services
 ```
 
-_3. ejecutar npm install_
-```bash
-npm i or npm install
-```
-
-_4. Establecer conexión con su BD local, para esto debe "_
+_3. Establecer conexión con su BD local, para esto debe "_
 ```bash
 cp .env.example .env
 
-https://github.com/dperea10/process-files-challenge/blob/main/.env.example
+https://github.com/dperea10/shortener-services/.env.example
 ```
 
-_5. ejecutar docker-compose_
+_4. ejecutar docker-compose_
 ```bash
-npm run docker:dev
-```
-_6. crear una conexion local a mongo (cuando se ejecute docker, la base de datos y un user admin sera creados automaticamente)._
-
-_7. Exportar la collection de postman para usar los enpoints en la raiz del proyecto._
-```bash
-https://github.com/dperea10/process-files-challenge/blob/main/Process%20File%20-%20KBX.postman_collection.json
+docker-compose up --build
 ```
 
 
@@ -96,27 +78,33 @@ _En el postman se encuentra un enpoint para obtener la informació con una serie
 
 En el archivo `.env`. Se encuentran estos valores predeterminados lo puedes cambiar segun tu entorno:
 ```bash
-DATABASE_USERNAME=root
-DATABASE_PASSWORD=root
-DATABASE_HOST=127.0.0.1
-DATABASE_PORT=27017
-DATABASE_DBNAME=process-files
-JWT_SECRET=token.secret
+APP_MONGO_URI=mongodb://localhost:27017/shortened_url
+APP_DATABASE_NAME=shortened_url
+APP_JWT_SECRET=my_secret_key
+APP_HOST_REDIS=127.0.0.1
+APP_PORT_REDIS=6379
+MONGODB_HOST=mongodb://localhost:27017/
+
+APP_BASE_URL_SERVICE=http://127.0.0.1:8080/
 ```
 
 ## API Endpoints
 routes
 **Auth routes**:\
-`POST /api/auth` - access\
+`POST /service/v1/short-url/login` - access\
 
 **Upload files routes**:\
-`POST /api/upload-file` - upload files\
-`GET /api/upload-file` - get upload files\
+`POST /service/v1/short-url` - create short url\
+`GET /service/v1/short-url/long-url-by/:hash_url` - getlong url\
+`DELETE /service/v1/short-url/delete-by/:hash_url` - delete short url\
+`GET /service/v1/short-url/record/register` - get all shorts urls\
+`GET /service/v1/short-url/record/platforms/used` - get records platfomrs\
+`GET /service/v1/short-url/record/clicks/used/:hash_url` - get records clicks\
 
 
 ## Construido con 🛠️
 
-_NodeJs, Express, MongoDB, TypeScripts, Docker y una que otras librerías que se ven instaladas en el package.json_
+Python, FastApi, MongoDB, Redis, Docker y una que otras librerías que se ven instaladas en el requirements_
 
 ## Autores ✒️
 
