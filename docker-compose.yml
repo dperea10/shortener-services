@@ -1,0 +1,59 @@
+version: "3.9"
+services:
+  fastapi:
+    build: .
+    command: uvicorn main:app --reload --host=0.0.0.0 --port=8000
+    volumes:
+      - ./app:/app
+    ports:
+      - "8000:80"
+    environment:
+     APP_MODULE: main:app
+    depends_on:
+      - mongodb
+      - redis
+  nginx:
+    image: nginx:latest
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf
+    environment:
+      - REDIS_HOST=redis
+      - MONGODB_HOST=localhost
+      - MONGODB_PORT=27018
+    depends_on:
+      - redis
+      - mongodb
+      - servers
+  
+  servers:
+    image: nginx:latest
+    ports:
+      - "8001:80"
+      - "8002:80"
+    # command: uvicorn main:app --host=0.0.0.0 --port=8000
+    volumes:
+      - ./nginx/servers.conf:/etc/nginx/servers.conf
+    environment:
+      - REDIS_HOST=redis
+      - MONGODB_HOST=mongodb
+      - MONGODB_PORT=27017
+    depends_on:
+      - redis
+      - mongodb
+  
+  redis:
+    image: redis:latest
+    ports:
+      - '6379:6379'
+
+  mongodb:
+    image: mongo:latest
+    volumes:
+      - mongodb-data:/data/db
+    ports:
+      - '27017:27017'
+
+volumes:
+  mongodb-data:

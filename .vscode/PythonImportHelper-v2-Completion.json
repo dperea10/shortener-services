@@ -1,0 +1,2846 @@
+[
+    {
+        "label": "enum",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "enum",
+        "description": "enum",
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "LongURLAdapter",
+        "importPath": "infra.adapters.shortened.long_url_adapter",
+        "description": "infra.adapters.shortened.long_url_adapter",
+        "isExtraImport": true,
+        "detail": "infra.adapters.shortened.long_url_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "LongURLAdapter",
+        "importPath": "infra.adapters.shortened.long_url_adapter",
+        "description": "infra.adapters.shortened.long_url_adapter",
+        "isExtraImport": true,
+        "detail": "infra.adapters.shortened.long_url_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "LongURLAdapter",
+        "importPath": "infra.adapters.shortened.long_url_adapter",
+        "description": "infra.adapters.shortened.long_url_adapter",
+        "isExtraImport": true,
+        "detail": "infra.adapters.shortened.long_url_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "LongURLAdapter",
+        "importPath": "infra.adapters.shortened.long_url_adapter",
+        "description": "infra.adapters.shortened.long_url_adapter",
+        "isExtraImport": true,
+        "detail": "infra.adapters.shortened.long_url_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "LongURLAdapter",
+        "importPath": "infra.adapters.shortened.long_url_adapter",
+        "description": "infra.adapters.shortened.long_url_adapter",
+        "isExtraImport": true,
+        "detail": "infra.adapters.shortened.long_url_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "ShortenedURLAdapter",
+        "importPath": "infra.adapters.shortened.shortened_url_adapter",
+        "description": "infra.adapters.shortened.shortened_url_adapter",
+        "isExtraImport": true,
+        "detail": "infra.adapters.shortened.shortened_url_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "ShortenedURLAdapter",
+        "importPath": "infra.adapters.shortened.shortened_url_adapter",
+        "description": "infra.adapters.shortened.shortened_url_adapter",
+        "isExtraImport": true,
+        "detail": "infra.adapters.shortened.shortened_url_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "ShortenedURLAdapter",
+        "importPath": "infra.adapters.shortened.shortened_url_adapter",
+        "description": "infra.adapters.shortened.shortened_url_adapter",
+        "isExtraImport": true,
+        "detail": "infra.adapters.shortened.shortened_url_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "ShortenedURLAdapter",
+        "importPath": "infra.adapters.shortened.shortened_url_adapter",
+        "description": "infra.adapters.shortened.shortened_url_adapter",
+        "isExtraImport": true,
+        "detail": "infra.adapters.shortened.shortened_url_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "ShortenedURLAdapter",
+        "importPath": "infra.adapters.shortened.shortened_url_adapter",
+        "description": "infra.adapters.shortened.shortened_url_adapter",
+        "isExtraImport": true,
+        "detail": "infra.adapters.shortened.shortened_url_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "ShortenedUrlRequestDTO",
+        "importPath": "infra.handlers.dtos.shortened_url",
+        "description": "infra.handlers.dtos.shortened_url",
+        "isExtraImport": true,
+        "detail": "infra.handlers.dtos.shortened_url",
+        "documentation": {}
+    },
+    {
+        "label": "ShortenedUrlRequestDTO",
+        "importPath": "infra.handlers.dtos.shortened_url",
+        "description": "infra.handlers.dtos.shortened_url",
+        "isExtraImport": true,
+        "detail": "infra.handlers.dtos.shortened_url",
+        "documentation": {}
+    },
+    {
+        "label": "ShortenedUrlRequestDTO",
+        "importPath": "infra.handlers.dtos.shortened_url",
+        "description": "infra.handlers.dtos.shortened_url",
+        "isExtraImport": true,
+        "detail": "infra.handlers.dtos.shortened_url",
+        "documentation": {}
+    },
+    {
+        "label": "ShortenedUrlResponseDTO",
+        "importPath": "infra.handlers.dtos.shortened_url",
+        "description": "infra.handlers.dtos.shortened_url",
+        "isExtraImport": true,
+        "detail": "infra.handlers.dtos.shortened_url",
+        "documentation": {}
+    },
+    {
+        "label": "ShortenedUrlRequestDTO",
+        "importPath": "infra.handlers.dtos.shortened_url",
+        "description": "infra.handlers.dtos.shortened_url",
+        "isExtraImport": true,
+        "detail": "infra.handlers.dtos.shortened_url",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseDTO",
+        "importPath": "infra.handlers.dtos.response",
+        "description": "infra.handlers.dtos.response",
+        "isExtraImport": true,
+        "detail": "infra.handlers.dtos.response",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseDTO",
+        "importPath": "infra.handlers.dtos.response",
+        "description": "infra.handlers.dtos.response",
+        "isExtraImport": true,
+        "detail": "infra.handlers.dtos.response",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseDTO",
+        "importPath": "infra.handlers.dtos.response",
+        "description": "infra.handlers.dtos.response",
+        "isExtraImport": true,
+        "detail": "infra.handlers.dtos.response",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseDTO",
+        "importPath": "infra.handlers.dtos.response",
+        "description": "infra.handlers.dtos.response",
+        "isExtraImport": true,
+        "detail": "infra.handlers.dtos.response",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseDTO",
+        "importPath": "infra.handlers.dtos.response",
+        "description": "infra.handlers.dtos.response",
+        "isExtraImport": true,
+        "detail": "infra.handlers.dtos.response",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseDTO",
+        "importPath": "infra.handlers.dtos.response",
+        "description": "infra.handlers.dtos.response",
+        "isExtraImport": true,
+        "detail": "infra.handlers.dtos.response",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseDTO",
+        "importPath": "infra.handlers.dtos.response",
+        "description": "infra.handlers.dtos.response",
+        "isExtraImport": true,
+        "detail": "infra.handlers.dtos.response",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseDTO",
+        "importPath": "infra.handlers.dtos.response",
+        "description": "infra.handlers.dtos.response",
+        "isExtraImport": true,
+        "detail": "infra.handlers.dtos.response",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseDTO",
+        "importPath": "infra.handlers.dtos.response",
+        "description": "infra.handlers.dtos.response",
+        "isExtraImport": true,
+        "detail": "infra.handlers.dtos.response",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseDTO",
+        "importPath": "infra.handlers.dtos.response",
+        "description": "infra.handlers.dtos.response",
+        "isExtraImport": true,
+        "detail": "infra.handlers.dtos.response",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseDTO",
+        "importPath": "infra.handlers.dtos.response",
+        "description": "infra.handlers.dtos.response",
+        "isExtraImport": true,
+        "detail": "infra.handlers.dtos.response",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseDTO",
+        "importPath": "infra.handlers.dtos.response",
+        "description": "infra.handlers.dtos.response",
+        "isExtraImport": true,
+        "detail": "infra.handlers.dtos.response",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseDTO",
+        "importPath": "infra.handlers.dtos.response",
+        "description": "infra.handlers.dtos.response",
+        "isExtraImport": true,
+        "detail": "infra.handlers.dtos.response",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseDTO",
+        "importPath": "infra.handlers.dtos.response",
+        "description": "infra.handlers.dtos.response",
+        "isExtraImport": true,
+        "detail": "infra.handlers.dtos.response",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseDTO",
+        "importPath": "infra.handlers.dtos.response",
+        "description": "infra.handlers.dtos.response",
+        "isExtraImport": true,
+        "detail": "infra.handlers.dtos.response",
+        "documentation": {}
+    },
+    {
+        "label": "typing",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "typing",
+        "description": "typing",
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdapter",
+        "importPath": "infra.adapters.shortened.user_adapter",
+        "description": "infra.adapters.shortened.user_adapter",
+        "isExtraImport": true,
+        "detail": "infra.adapters.shortened.user_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdapter",
+        "importPath": "infra.adapters.shortened.user_adapter",
+        "description": "infra.adapters.shortened.user_adapter",
+        "isExtraImport": true,
+        "detail": "infra.adapters.shortened.user_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdapter",
+        "importPath": "infra.adapters.shortened.user_adapter",
+        "description": "infra.adapters.shortened.user_adapter",
+        "isExtraImport": true,
+        "detail": "infra.adapters.shortened.user_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdapter",
+        "importPath": "infra.adapters.shortened.user_adapter",
+        "description": "infra.adapters.shortened.user_adapter",
+        "isExtraImport": true,
+        "detail": "infra.adapters.shortened.user_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdapter",
+        "importPath": "infra.adapters.shortened.user_adapter",
+        "description": "infra.adapters.shortened.user_adapter",
+        "isExtraImport": true,
+        "detail": "infra.adapters.shortened.user_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdapter",
+        "importPath": "infra.adapters.shortened.user_adapter",
+        "description": "infra.adapters.shortened.user_adapter",
+        "isExtraImport": true,
+        "detail": "infra.adapters.shortened.user_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdapter",
+        "importPath": "infra.adapters.shortened.user_adapter",
+        "description": "infra.adapters.shortened.user_adapter",
+        "isExtraImport": true,
+        "detail": "infra.adapters.shortened.user_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdapter",
+        "importPath": "infra.adapters.shortened.user_adapter",
+        "description": "infra.adapters.shortened.user_adapter",
+        "isExtraImport": true,
+        "detail": "infra.adapters.shortened.user_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "DataShortenedUrlRedis",
+        "importPath": "infra.adapters.redis.models.redis_model",
+        "description": "infra.adapters.redis.models.redis_model",
+        "isExtraImport": true,
+        "detail": "infra.adapters.redis.models.redis_model",
+        "documentation": {}
+    },
+    {
+        "label": "DataShortenedUrlRedis",
+        "importPath": "infra.adapters.redis.models.redis_model",
+        "description": "infra.adapters.redis.models.redis_model",
+        "isExtraImport": true,
+        "detail": "infra.adapters.redis.models.redis_model",
+        "documentation": {}
+    },
+    {
+        "label": "DataShortenedUrlRedis",
+        "importPath": "infra.adapters.redis.models.redis_model",
+        "description": "infra.adapters.redis.models.redis_model",
+        "isExtraImport": true,
+        "detail": "infra.adapters.redis.models.redis_model",
+        "documentation": {}
+    },
+    {
+        "label": "DataShortenedUrlRedis",
+        "importPath": "infra.adapters.redis.models.redis_model",
+        "description": "infra.adapters.redis.models.redis_model",
+        "isExtraImport": true,
+        "detail": "infra.adapters.redis.models.redis_model",
+        "documentation": {}
+    },
+    {
+        "label": "DataShortenedUrlRedis",
+        "importPath": "infra.adapters.redis.models.redis_model",
+        "description": "infra.adapters.redis.models.redis_model",
+        "isExtraImport": true,
+        "detail": "infra.adapters.redis.models.redis_model",
+        "documentation": {}
+    },
+    {
+        "label": "DataShortenedUrlRedis",
+        "importPath": "infra.adapters.redis.models.redis_model",
+        "description": "infra.adapters.redis.models.redis_model",
+        "isExtraImport": true,
+        "detail": "infra.adapters.redis.models.redis_model",
+        "documentation": {}
+    },
+    {
+        "label": "redis_adapter",
+        "importPath": "infra.adapters.redis.redis_config",
+        "description": "infra.adapters.redis.redis_config",
+        "isExtraImport": true,
+        "detail": "infra.adapters.redis.redis_config",
+        "documentation": {}
+    },
+    {
+        "label": "redis_adapter",
+        "importPath": "infra.adapters.redis.redis_config",
+        "description": "infra.adapters.redis.redis_config",
+        "isExtraImport": true,
+        "detail": "infra.adapters.redis.redis_config",
+        "documentation": {}
+    },
+    {
+        "label": "redis_adapter",
+        "importPath": "infra.adapters.redis.redis_config",
+        "description": "infra.adapters.redis.redis_config",
+        "isExtraImport": true,
+        "detail": "infra.adapters.redis.redis_config",
+        "documentation": {}
+    },
+    {
+        "label": "redis_adapter",
+        "importPath": "infra.adapters.redis.redis_config",
+        "description": "infra.adapters.redis.redis_config",
+        "isExtraImport": true,
+        "detail": "infra.adapters.redis.redis_config",
+        "documentation": {}
+    },
+    {
+        "label": "redis_adapter",
+        "importPath": "infra.adapters.redis.redis_config",
+        "description": "infra.adapters.redis.redis_config",
+        "isExtraImport": true,
+        "detail": "infra.adapters.redis.redis_config",
+        "documentation": {}
+    },
+    {
+        "label": "LongUrlModel",
+        "importPath": "infra.adapters.database.models.long_url_models",
+        "description": "infra.adapters.database.models.long_url_models",
+        "isExtraImport": true,
+        "detail": "infra.adapters.database.models.long_url_models",
+        "documentation": {}
+    },
+    {
+        "label": "LongUrlModel",
+        "importPath": "infra.adapters.database.models.long_url_models",
+        "description": "infra.adapters.database.models.long_url_models",
+        "isExtraImport": true,
+        "detail": "infra.adapters.database.models.long_url_models",
+        "documentation": {}
+    },
+    {
+        "label": "LongUrlModel",
+        "importPath": "infra.adapters.database.models.long_url_models",
+        "description": "infra.adapters.database.models.long_url_models",
+        "isExtraImport": true,
+        "detail": "infra.adapters.database.models.long_url_models",
+        "documentation": {}
+    },
+    {
+        "label": "LongUrlModel",
+        "importPath": "infra.adapters.database.models.long_url_models",
+        "description": "infra.adapters.database.models.long_url_models",
+        "isExtraImport": true,
+        "detail": "infra.adapters.database.models.long_url_models",
+        "documentation": {}
+    },
+    {
+        "label": "LongUrlModel",
+        "importPath": "infra.adapters.database.models.long_url_models",
+        "description": "infra.adapters.database.models.long_url_models",
+        "isExtraImport": true,
+        "detail": "infra.adapters.database.models.long_url_models",
+        "documentation": {}
+    },
+    {
+        "label": "ShortenedUrlModel",
+        "importPath": "infra.adapters.database.models.shortened_url_models",
+        "description": "infra.adapters.database.models.shortened_url_models",
+        "isExtraImport": true,
+        "detail": "infra.adapters.database.models.shortened_url_models",
+        "documentation": {}
+    },
+    {
+        "label": "ShortenedUrlModel",
+        "importPath": "infra.adapters.database.models.shortened_url_models",
+        "description": "infra.adapters.database.models.shortened_url_models",
+        "isExtraImport": true,
+        "detail": "infra.adapters.database.models.shortened_url_models",
+        "documentation": {}
+    },
+    {
+        "label": "ShortenedUrlModel",
+        "importPath": "infra.adapters.database.models.shortened_url_models",
+        "description": "infra.adapters.database.models.shortened_url_models",
+        "isExtraImport": true,
+        "detail": "infra.adapters.database.models.shortened_url_models",
+        "documentation": {}
+    },
+    {
+        "label": "ShortenedUrlModel",
+        "importPath": "infra.adapters.database.models.shortened_url_models",
+        "description": "infra.adapters.database.models.shortened_url_models",
+        "isExtraImport": true,
+        "detail": "infra.adapters.database.models.shortened_url_models",
+        "documentation": {}
+    },
+    {
+        "label": "ShortenedUrlModel",
+        "importPath": "infra.adapters.database.models.shortened_url_models",
+        "description": "infra.adapters.database.models.shortened_url_models",
+        "isExtraImport": true,
+        "detail": "infra.adapters.database.models.shortened_url_models",
+        "documentation": {}
+    },
+    {
+        "label": "ShortenedUrlModel",
+        "importPath": "infra.adapters.database.models.shortened_url_models",
+        "description": "infra.adapters.database.models.shortened_url_models",
+        "isExtraImport": true,
+        "detail": "infra.adapters.database.models.shortened_url_models",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "infra.config.config",
+        "description": "infra.config.config",
+        "isExtraImport": true,
+        "detail": "infra.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "infra.config.config",
+        "description": "infra.config.config",
+        "isExtraImport": true,
+        "detail": "infra.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "infra.config.config",
+        "description": "infra.config.config",
+        "isExtraImport": true,
+        "detail": "infra.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "infra.config.config",
+        "description": "infra.config.config",
+        "isExtraImport": true,
+        "detail": "infra.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "infra.config.config",
+        "description": "infra.config.config",
+        "isExtraImport": true,
+        "detail": "infra.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "infra.config.config",
+        "description": "infra.config.config",
+        "isExtraImport": true,
+        "detail": "infra.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "infra.config.config",
+        "description": "infra.config.config",
+        "isExtraImport": true,
+        "detail": "infra.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "infra.config.config",
+        "description": "infra.config.config",
+        "isExtraImport": true,
+        "detail": "infra.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "infra.config.config",
+        "description": "infra.config.config",
+        "isExtraImport": true,
+        "detail": "infra.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "infra.config.config",
+        "description": "infra.config.config",
+        "isExtraImport": true,
+        "detail": "infra.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "decode_token_base",
+        "importPath": "infra.utils.functions",
+        "description": "infra.utils.functions",
+        "isExtraImport": true,
+        "detail": "infra.utils.functions",
+        "documentation": {}
+    },
+    {
+        "label": "decode_token_base",
+        "importPath": "infra.utils.functions",
+        "description": "infra.utils.functions",
+        "isExtraImport": true,
+        "detail": "infra.utils.functions",
+        "documentation": {}
+    },
+    {
+        "label": "decode_token_base",
+        "importPath": "infra.utils.functions",
+        "description": "infra.utils.functions",
+        "isExtraImport": true,
+        "detail": "infra.utils.functions",
+        "documentation": {}
+    },
+    {
+        "label": "decode_token_base",
+        "importPath": "infra.utils.functions",
+        "description": "infra.utils.functions",
+        "isExtraImport": true,
+        "detail": "infra.utils.functions",
+        "documentation": {}
+    },
+    {
+        "label": "decode_token_base",
+        "importPath": "infra.utils.functions",
+        "description": "infra.utils.functions",
+        "isExtraImport": true,
+        "detail": "infra.utils.functions",
+        "documentation": {}
+    },
+    {
+        "label": "decode_token_base",
+        "importPath": "infra.utils.functions",
+        "description": "infra.utils.functions",
+        "isExtraImport": true,
+        "detail": "infra.utils.functions",
+        "documentation": {}
+    },
+    {
+        "label": "decode_token_base",
+        "importPath": "infra.utils.functions",
+        "description": "infra.utils.functions",
+        "isExtraImport": true,
+        "detail": "infra.utils.functions",
+        "documentation": {}
+    },
+    {
+        "label": "AccessCountAdapter",
+        "importPath": "infra.adapters.shortened.access_count_adapter",
+        "description": "infra.adapters.shortened.access_count_adapter",
+        "isExtraImport": true,
+        "detail": "infra.adapters.shortened.access_count_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "AccessCountAdapter",
+        "importPath": "infra.adapters.shortened.access_count_adapter",
+        "description": "infra.adapters.shortened.access_count_adapter",
+        "isExtraImport": true,
+        "detail": "infra.adapters.shortened.access_count_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "AccessCountAdapter",
+        "importPath": "infra.adapters.shortened.access_count_adapter",
+        "description": "infra.adapters.shortened.access_count_adapter",
+        "isExtraImport": true,
+        "detail": "infra.adapters.shortened.access_count_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "AccessCountModel",
+        "importPath": "infra.adapters.database.models.access_count_models",
+        "description": "infra.adapters.database.models.access_count_models",
+        "isExtraImport": true,
+        "detail": "infra.adapters.database.models.access_count_models",
+        "documentation": {}
+    },
+    {
+        "label": "AccessCountModel",
+        "importPath": "infra.adapters.database.models.access_count_models",
+        "description": "infra.adapters.database.models.access_count_models",
+        "isExtraImport": true,
+        "detail": "infra.adapters.database.models.access_count_models",
+        "documentation": {}
+    },
+    {
+        "label": "AccessCountModel",
+        "importPath": "infra.adapters.database.models.access_count_models",
+        "description": "infra.adapters.database.models.access_count_models",
+        "isExtraImport": true,
+        "detail": "infra.adapters.database.models.access_count_models",
+        "documentation": {}
+    },
+    {
+        "label": "AccessCountModel",
+        "importPath": "infra.adapters.database.models.access_count_models",
+        "description": "infra.adapters.database.models.access_count_models",
+        "isExtraImport": true,
+        "detail": "infra.adapters.database.models.access_count_models",
+        "documentation": {}
+    },
+    {
+        "label": "application.shortened.usecase.create_long_url_usecase",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "application.shortened.usecase.create_long_url_usecase",
+        "description": "application.shortened.usecase.create_long_url_usecase",
+        "detail": "application.shortened.usecase.create_long_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "long_url_adapter",
+        "importPath": "application.shortened.usecase.create_long_url_usecase",
+        "description": "application.shortened.usecase.create_long_url_usecase",
+        "isExtraImport": true,
+        "detail": "application.shortened.usecase.create_long_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "create_short_url_use",
+        "importPath": "application.shortened.usecase.create_long_url_usecase",
+        "description": "application.shortened.usecase.create_long_url_usecase",
+        "isExtraImport": true,
+        "detail": "application.shortened.usecase.create_long_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "create_short_url_use",
+        "importPath": "application.shortened.usecase.create_long_url_usecase",
+        "description": "application.shortened.usecase.create_long_url_usecase",
+        "isExtraImport": true,
+        "detail": "application.shortened.usecase.create_long_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "create_short_url_use",
+        "importPath": "application.shortened.usecase.create_long_url_usecase",
+        "description": "application.shortened.usecase.create_long_url_usecase",
+        "isExtraImport": true,
+        "detail": "application.shortened.usecase.create_long_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "create_short_url_use",
+        "importPath": "application.shortened.usecase.create_long_url_usecase",
+        "description": "application.shortened.usecase.create_long_url_usecase",
+        "isExtraImport": true,
+        "detail": "application.shortened.usecase.create_long_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "patch",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "create_short_url_use",
+        "importPath": "application.shortened.usecase.delete_short_url_usecase",
+        "description": "application.shortened.usecase.delete_short_url_usecase",
+        "isExtraImport": true,
+        "detail": "application.shortened.usecase.delete_short_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "redis_adapter",
+        "importPath": "application.shortened.usecase.delete_short_url_usecase",
+        "description": "application.shortened.usecase.delete_short_url_usecase",
+        "isExtraImport": true,
+        "detail": "application.shortened.usecase.delete_short_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "long_url_adapter",
+        "importPath": "application.shortened.usecase.delete_short_url_usecase",
+        "description": "application.shortened.usecase.delete_short_url_usecase",
+        "isExtraImport": true,
+        "detail": "application.shortened.usecase.delete_short_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "short_url_adapter",
+        "importPath": "application.shortened.usecase.delete_short_url_usecase",
+        "description": "application.shortened.usecase.delete_short_url_usecase",
+        "isExtraImport": true,
+        "detail": "application.shortened.usecase.delete_short_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "user_adapter",
+        "importPath": "application.shortened.usecase.delete_short_url_usecase",
+        "description": "application.shortened.usecase.delete_short_url_usecase",
+        "isExtraImport": true,
+        "detail": "application.shortened.usecase.delete_short_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "application.shortened.usecase.delete_short_url_usecase",
+        "description": "application.shortened.usecase.delete_short_url_usecase",
+        "isExtraImport": true,
+        "detail": "application.shortened.usecase.delete_short_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "delete_short_url_use",
+        "importPath": "application.shortened.usecase.delete_short_url_usecase",
+        "description": "application.shortened.usecase.delete_short_url_usecase",
+        "isExtraImport": true,
+        "detail": "application.shortened.usecase.delete_short_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "ShortenedUrlRequestDTO",
+        "importPath": "infra.handlers.dtos",
+        "description": "infra.handlers.dtos",
+        "isExtraImport": true,
+        "detail": "infra.handlers.dtos",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseDTO",
+        "importPath": "infra.handlers.dtos",
+        "description": "infra.handlers.dtos",
+        "isExtraImport": true,
+        "detail": "infra.handlers.dtos",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "importPath": "infra.adapters.database.models.user_models",
+        "description": "infra.adapters.database.models.user_models",
+        "isExtraImport": true,
+        "detail": "infra.adapters.database.models.user_models",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "importPath": "infra.adapters.database.models.user_models",
+        "description": "infra.adapters.database.models.user_models",
+        "isExtraImport": true,
+        "detail": "infra.adapters.database.models.user_models",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "importPath": "infra.adapters.database.models.user_models",
+        "description": "infra.adapters.database.models.user_models",
+        "isExtraImport": true,
+        "detail": "infra.adapters.database.models.user_models",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jwt",
+        "description": "jwt",
+        "detail": "jwt",
+        "documentation": {}
+    },
+    {
+        "label": "MongoClient",
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "isExtraImport": true,
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "IndexModel",
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "isExtraImport": true,
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "ASCENDING",
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "isExtraImport": true,
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "MongoClient",
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "isExtraImport": true,
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "CodecOptions",
+        "importPath": "bson.codec_options",
+        "description": "bson.codec_options",
+        "isExtraImport": true,
+        "detail": "bson.codec_options",
+        "documentation": {}
+    },
+    {
+        "label": "Collection",
+        "importPath": "pymongo.collection",
+        "description": "pymongo.collection",
+        "isExtraImport": true,
+        "detail": "pymongo.collection",
+        "documentation": {}
+    },
+    {
+        "label": "LogsModel",
+        "importPath": "infra.adapters.database.models.logs_models",
+        "description": "infra.adapters.database.models.logs_models",
+        "isExtraImport": true,
+        "detail": "infra.adapters.database.models.logs_models",
+        "documentation": {}
+    },
+    {
+        "label": "PlatformModel",
+        "importPath": "infra.adapters.database.models.platform_models",
+        "description": "infra.adapters.database.models.platform_models",
+        "isExtraImport": true,
+        "detail": "infra.adapters.database.models.platform_models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "redis",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "redis",
+        "description": "redis",
+        "detail": "redis",
+        "documentation": {}
+    },
+    {
+        "label": "RedisInterface",
+        "importPath": "infra.adapters.redis.redis",
+        "description": "infra.adapters.redis.redis",
+        "isExtraImport": true,
+        "detail": "infra.adapters.redis.redis",
+        "documentation": {}
+    },
+    {
+        "label": "RedisAdapter",
+        "importPath": "infra.adapters.redis.redis",
+        "description": "infra.adapters.redis.redis",
+        "isExtraImport": true,
+        "detail": "infra.adapters.redis.redis",
+        "documentation": {}
+    },
+    {
+        "label": "PyMongoError",
+        "importPath": "pymongo.errors",
+        "description": "pymongo.errors",
+        "isExtraImport": true,
+        "detail": "pymongo.errors",
+        "documentation": {}
+    },
+    {
+        "label": "PyMongoError",
+        "importPath": "pymongo.errors",
+        "description": "pymongo.errors",
+        "isExtraImport": true,
+        "detail": "pymongo.errors",
+        "documentation": {}
+    },
+    {
+        "label": "PyMongoError",
+        "importPath": "pymongo.errors",
+        "description": "pymongo.errors",
+        "isExtraImport": true,
+        "detail": "pymongo.errors",
+        "documentation": {}
+    },
+    {
+        "label": "PyMongoError",
+        "importPath": "pymongo.errors",
+        "description": "pymongo.errors",
+        "isExtraImport": true,
+        "detail": "pymongo.errors",
+        "documentation": {}
+    },
+    {
+        "label": "PyMongoError",
+        "importPath": "pymongo.errors",
+        "description": "pymongo.errors",
+        "isExtraImport": true,
+        "detail": "pymongo.errors",
+        "documentation": {}
+    },
+    {
+        "label": "jsonable_encoder",
+        "importPath": "fastapi.encoders",
+        "description": "fastapi.encoders",
+        "isExtraImport": true,
+        "detail": "fastapi.encoders",
+        "documentation": {}
+    },
+    {
+        "label": "jsonable_encoder",
+        "importPath": "fastapi.encoders",
+        "description": "fastapi.encoders",
+        "isExtraImport": true,
+        "detail": "fastapi.encoders",
+        "documentation": {}
+    },
+    {
+        "label": "jsonable_encoder",
+        "importPath": "fastapi.encoders",
+        "description": "fastapi.encoders",
+        "isExtraImport": true,
+        "detail": "fastapi.encoders",
+        "documentation": {}
+    },
+    {
+        "label": "jsonable_encoder",
+        "importPath": "fastapi.encoders",
+        "description": "fastapi.encoders",
+        "isExtraImport": true,
+        "detail": "fastapi.encoders",
+        "documentation": {}
+    },
+    {
+        "label": "jsonable_encoder",
+        "importPath": "fastapi.encoders",
+        "description": "fastapi.encoders",
+        "isExtraImport": true,
+        "detail": "fastapi.encoders",
+        "documentation": {}
+    },
+    {
+        "label": "jsonable_encoder",
+        "importPath": "fastapi.encoders",
+        "description": "fastapi.encoders",
+        "isExtraImport": true,
+        "detail": "fastapi.encoders",
+        "documentation": {}
+    },
+    {
+        "label": "jsonable_encoder",
+        "importPath": "fastapi.encoders",
+        "description": "fastapi.encoders",
+        "isExtraImport": true,
+        "detail": "fastapi.encoders",
+        "documentation": {}
+    },
+    {
+        "label": "jsonable_encoder",
+        "importPath": "fastapi.encoders",
+        "description": "fastapi.encoders",
+        "isExtraImport": true,
+        "detail": "fastapi.encoders",
+        "documentation": {}
+    },
+    {
+        "label": "jsonable_encoder",
+        "importPath": "fastapi.encoders",
+        "description": "fastapi.encoders",
+        "isExtraImport": true,
+        "detail": "fastapi.encoders",
+        "documentation": {}
+    },
+    {
+        "label": "jsonable_encoder",
+        "importPath": "fastapi.encoders",
+        "description": "fastapi.encoders",
+        "isExtraImport": true,
+        "detail": "fastapi.encoders",
+        "documentation": {}
+    },
+    {
+        "label": "jsonable_encoder",
+        "importPath": "fastapi.encoders",
+        "description": "fastapi.encoders",
+        "isExtraImport": true,
+        "detail": "fastapi.encoders",
+        "documentation": {}
+    },
+    {
+        "label": "AccessCountUrlResponseDTO",
+        "importPath": "infra.handlers.dtos.access_count",
+        "description": "infra.handlers.dtos.access_count",
+        "isExtraImport": true,
+        "detail": "infra.handlers.dtos.access_count",
+        "documentation": {}
+    },
+    {
+        "label": "ClickDTO",
+        "importPath": "infra.handlers.dtos.access_count",
+        "description": "infra.handlers.dtos.access_count",
+        "isExtraImport": true,
+        "detail": "infra.handlers.dtos.access_count",
+        "documentation": {}
+    },
+    {
+        "label": "BaseAdapter",
+        "importPath": "infra.adapters.shortened.base_adapter",
+        "description": "infra.adapters.shortened.base_adapter",
+        "isExtraImport": true,
+        "detail": "infra.adapters.shortened.base_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "BaseAdapter",
+        "importPath": "infra.adapters.shortened.base_adapter",
+        "description": "infra.adapters.shortened.base_adapter",
+        "isExtraImport": true,
+        "detail": "infra.adapters.shortened.base_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "BaseAdapter",
+        "importPath": "infra.adapters.shortened.base_adapter",
+        "description": "infra.adapters.shortened.base_adapter",
+        "isExtraImport": true,
+        "detail": "infra.adapters.shortened.base_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "BaseAdapter",
+        "importPath": "infra.adapters.shortened.base_adapter",
+        "description": "infra.adapters.shortened.base_adapter",
+        "isExtraImport": true,
+        "detail": "infra.adapters.shortened.base_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "pymongo.database",
+        "description": "pymongo.database",
+        "isExtraImport": true,
+        "detail": "pymongo.database",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectId",
+        "importPath": "bson",
+        "description": "bson",
+        "isExtraImport": true,
+        "detail": "bson",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectId",
+        "importPath": "bson",
+        "description": "bson",
+        "isExtraImport": true,
+        "detail": "bson",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Header",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Header",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_platforms_and_browser_used_use",
+        "importPath": "application.shortened.usecase.get_all_platforms_and_browser_used_usecase",
+        "description": "application.shortened.usecase.get_all_platforms_and_browser_used_usecase",
+        "isExtraImport": true,
+        "detail": "application.shortened.usecase.get_all_platforms_and_browser_used_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_records_clicks_used_use",
+        "importPath": "application.shortened.usecase.get_all_records_clicks_used_usecase",
+        "description": "application.shortened.usecase.get_all_records_clicks_used_usecase",
+        "isExtraImport": true,
+        "detail": "application.shortened.usecase.get_all_records_clicks_used_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_short_url_used_use",
+        "importPath": "application.shortened.usecase.get_all_short_url_used_usecase",
+        "description": "application.shortened.usecase.get_all_short_url_used_usecase",
+        "isExtraImport": true,
+        "detail": "application.shortened.usecase.get_all_short_url_used_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "get_long_url_by_short_url_use",
+        "importPath": "application.shortened.usecase.get_short_url_usecase",
+        "description": "application.shortened.usecase.get_short_url_usecase",
+        "isExtraImport": true,
+        "detail": "application.shortened.usecase.get_short_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi.requests",
+        "description": "fastapi.requests",
+        "isExtraImport": true,
+        "detail": "fastapi.requests",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "importPath": "user_agents",
+        "description": "user_agents",
+        "isExtraImport": true,
+        "detail": "user_agents",
+        "documentation": {}
+    },
+    {
+        "label": "redirect_to_long_url_use",
+        "importPath": "application.shortened.usecase.redirect_to_long_url_usecase",
+        "description": "application.shortened.usecase.redirect_to_long_url_usecase",
+        "isExtraImport": true,
+        "detail": "application.shortened.usecase.redirect_to_long_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "MessageResponse",
+        "importPath": "infra.handlers.enums.message_event",
+        "description": "infra.handlers.enums.message_event",
+        "isExtraImport": true,
+        "detail": "infra.handlers.enums.message_event",
+        "documentation": {}
+    },
+    {
+        "label": "MessageResponse",
+        "importPath": "infra.handlers.enums.message_event",
+        "description": "infra.handlers.enums.message_event",
+        "isExtraImport": true,
+        "detail": "infra.handlers.enums.message_event",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPBasicCredentials",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPBasic",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPBasic",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPBasicCredentials",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_token",
+        "importPath": "application.shortened.usecase.user_usecase",
+        "description": "application.shortened.usecase.user_usecase",
+        "isExtraImport": true,
+        "detail": "application.shortened.usecase.user_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "create_short_url_handler",
+        "importPath": "infra.handlers.create_long_url_handler",
+        "description": "infra.handlers.create_long_url_handler",
+        "isExtraImport": true,
+        "detail": "infra.handlers.create_long_url_handler",
+        "documentation": {}
+    },
+    {
+        "label": "get_long_url_by_short_url_handler",
+        "importPath": "infra.handlers.get_long_url_handler",
+        "description": "infra.handlers.get_long_url_handler",
+        "isExtraImport": true,
+        "detail": "infra.handlers.get_long_url_handler",
+        "documentation": {}
+    },
+    {
+        "label": "delete_long_short_url_handler",
+        "importPath": "infra.handlers.delete_short_url_handler",
+        "description": "infra.handlers.delete_short_url_handler",
+        "isExtraImport": true,
+        "detail": "infra.handlers.delete_short_url_handler",
+        "documentation": {}
+    },
+    {
+        "label": "redirect_to_long_url_handler",
+        "importPath": "infra.handlers.redirect_to_long_url_handler",
+        "description": "infra.handlers.redirect_to_long_url_handler",
+        "isExtraImport": true,
+        "detail": "infra.handlers.redirect_to_long_url_handler",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_short_url_used_handler",
+        "importPath": "infra.handlers.get_all_short_url_used_handler",
+        "description": "infra.handlers.get_all_short_url_used_handler",
+        "isExtraImport": true,
+        "detail": "infra.handlers.get_all_short_url_used_handler",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_platforms_and_browser_used_handler",
+        "importPath": "infra.handlers.get_all_platforms_and_browser_used_handler",
+        "description": "infra.handlers.get_all_platforms_and_browser_used_handler",
+        "isExtraImport": true,
+        "detail": "infra.handlers.get_all_platforms_and_browser_used_handler",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_records_clicks_used_handler",
+        "importPath": "infra.handlers.get_all_records_clicks_used_handler",
+        "description": "infra.handlers.get_all_records_clicks_used_handler",
+        "isExtraImport": true,
+        "detail": "infra.handlers.get_all_records_clicks_used_handler",
+        "documentation": {}
+    },
+    {
+        "label": "get_token_handler",
+        "importPath": "infra.handlers.user_handler",
+        "description": "infra.handlers.user_handler",
+        "isExtraImport": true,
+        "detail": "infra.handlers.user_handler",
+        "documentation": {}
+    },
+    {
+        "label": "DecodeError",
+        "importPath": "jwt.exceptions",
+        "description": "jwt.exceptions",
+        "isExtraImport": true,
+        "detail": "jwt.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "infra.routes",
+        "description": "infra.routes",
+        "isExtraImport": true,
+        "detail": "infra.routes",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "execute_migration",
+        "importPath": "infra.adapters.database.migrations.migration",
+        "description": "infra.adapters.database.migrations.migration",
+        "isExtraImport": true,
+        "detail": "infra.adapters.database.migrations.migration",
+        "documentation": {}
+    },
+    {
+        "label": "create_short_url_use",
+        "kind": 2,
+        "importPath": "application.shortened.usecase.create_long_url_usecase",
+        "description": "application.shortened.usecase.create_long_url_usecase",
+        "peekOfCode": "def create_short_url_use(data_long_url: ShortenedUrlRequestDTO, token: str) -> ResponseDTO:\n    user_token = decode_token_base(token)\n    if user_token is None:\n       response = ResponseDTO(status=\"Error\", message=\"Unauthorized\")       \n       return response\n    user_model = user_adapter.get_user_by_username(user_token)\n    if user_model is None:\n       response = ResponseDTO(status=\"Error\", message=\"UserNotfound\")       \n       return response\n    result_redis = redis_adapter.get_redis(data_long_url)",
+        "detail": "application.shortened.usecase.create_long_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "send_to_redis_cache",
+        "kind": 2,
+        "importPath": "application.shortened.usecase.create_long_url_usecase",
+        "description": "application.shortened.usecase.create_long_url_usecase",
+        "peekOfCode": "def send_to_redis_cache(hash_url:str, data_long_url: ShortenedUrlRequestDTO):\n    data_long_url_struct = DataShortenedUrlRedis(short_url=settings.base_url_service + hash_url, long_url= data_long_url, hash_url=hash_url, created_at=datetime.now())\n    redis_adapter.save_short_url_redis(data_long_url, data_long_url_struct.to_dict())",
+        "detail": "application.shortened.usecase.create_long_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "long_url_adapter",
+        "kind": 5,
+        "importPath": "application.shortened.usecase.create_long_url_usecase",
+        "description": "application.shortened.usecase.create_long_url_usecase",
+        "peekOfCode": "long_url_adapter = LongURLAdapter()\nshort_url_adapter = ShortenedURLAdapter()\nuser_adapter = UserAdapter()\ndef create_short_url_use(data_long_url: ShortenedUrlRequestDTO, token: str) -> ResponseDTO:\n    user_token = decode_token_base(token)\n    if user_token is None:\n       response = ResponseDTO(status=\"Error\", message=\"Unauthorized\")       \n       return response\n    user_model = user_adapter.get_user_by_username(user_token)\n    if user_model is None:",
+        "detail": "application.shortened.usecase.create_long_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "short_url_adapter",
+        "kind": 5,
+        "importPath": "application.shortened.usecase.create_long_url_usecase",
+        "description": "application.shortened.usecase.create_long_url_usecase",
+        "peekOfCode": "short_url_adapter = ShortenedURLAdapter()\nuser_adapter = UserAdapter()\ndef create_short_url_use(data_long_url: ShortenedUrlRequestDTO, token: str) -> ResponseDTO:\n    user_token = decode_token_base(token)\n    if user_token is None:\n       response = ResponseDTO(status=\"Error\", message=\"Unauthorized\")       \n       return response\n    user_model = user_adapter.get_user_by_username(user_token)\n    if user_model is None:\n       response = ResponseDTO(status=\"Error\", message=\"UserNotfound\")       ",
+        "detail": "application.shortened.usecase.create_long_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "user_adapter",
+        "kind": 5,
+        "importPath": "application.shortened.usecase.create_long_url_usecase",
+        "description": "application.shortened.usecase.create_long_url_usecase",
+        "peekOfCode": "user_adapter = UserAdapter()\ndef create_short_url_use(data_long_url: ShortenedUrlRequestDTO, token: str) -> ResponseDTO:\n    user_token = decode_token_base(token)\n    if user_token is None:\n       response = ResponseDTO(status=\"Error\", message=\"Unauthorized\")       \n       return response\n    user_model = user_adapter.get_user_by_username(user_token)\n    if user_model is None:\n       response = ResponseDTO(status=\"Error\", message=\"UserNotfound\")       \n       return response",
+        "detail": "application.shortened.usecase.create_long_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "delete_short_url_use",
+        "kind": 2,
+        "importPath": "application.shortened.usecase.delete_short_url_usecase",
+        "description": "application.shortened.usecase.delete_short_url_usecase",
+        "peekOfCode": "def delete_short_url_use(hash_url: str, token: str) -> ResponseDTO:\n    user_token = decode_token_base(token)\n    if user_token is None:\n       response = ResponseDTO(status=\"Error\", message=\"Unauthorized\")       \n       return response\n    user_model = user_adapter.get_user_by_username(user_token)\n    if user_model is None:\n       response = ResponseDTO(status=\"Error\", message=\"UserNotfound\")       \n       return response\n    redis_adapter.delete_redis(hash_url)",
+        "detail": "application.shortened.usecase.delete_short_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "long_url_adapter",
+        "kind": 5,
+        "importPath": "application.shortened.usecase.delete_short_url_usecase",
+        "description": "application.shortened.usecase.delete_short_url_usecase",
+        "peekOfCode": "long_url_adapter = LongURLAdapter()\nshort_url_adapter = ShortenedURLAdapter()\nuser_adapter = UserAdapter()\ndef delete_short_url_use(hash_url: str, token: str) -> ResponseDTO:\n    user_token = decode_token_base(token)\n    if user_token is None:\n       response = ResponseDTO(status=\"Error\", message=\"Unauthorized\")       \n       return response\n    user_model = user_adapter.get_user_by_username(user_token)\n    if user_model is None:",
+        "detail": "application.shortened.usecase.delete_short_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "short_url_adapter",
+        "kind": 5,
+        "importPath": "application.shortened.usecase.delete_short_url_usecase",
+        "description": "application.shortened.usecase.delete_short_url_usecase",
+        "peekOfCode": "short_url_adapter = ShortenedURLAdapter()\nuser_adapter = UserAdapter()\ndef delete_short_url_use(hash_url: str, token: str) -> ResponseDTO:\n    user_token = decode_token_base(token)\n    if user_token is None:\n       response = ResponseDTO(status=\"Error\", message=\"Unauthorized\")       \n       return response\n    user_model = user_adapter.get_user_by_username(user_token)\n    if user_model is None:\n       response = ResponseDTO(status=\"Error\", message=\"UserNotfound\")       ",
+        "detail": "application.shortened.usecase.delete_short_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "user_adapter",
+        "kind": 5,
+        "importPath": "application.shortened.usecase.delete_short_url_usecase",
+        "description": "application.shortened.usecase.delete_short_url_usecase",
+        "peekOfCode": "user_adapter = UserAdapter()\ndef delete_short_url_use(hash_url: str, token: str) -> ResponseDTO:\n    user_token = decode_token_base(token)\n    if user_token is None:\n       response = ResponseDTO(status=\"Error\", message=\"Unauthorized\")       \n       return response\n    user_model = user_adapter.get_user_by_username(user_token)\n    if user_model is None:\n       response = ResponseDTO(status=\"Error\", message=\"UserNotfound\")       \n       return response",
+        "detail": "application.shortened.usecase.delete_short_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_platforms_and_browser_used_use",
+        "kind": 2,
+        "importPath": "application.shortened.usecase.get_all_platforms_and_browser_used_usecase",
+        "description": "application.shortened.usecase.get_all_platforms_and_browser_used_usecase",
+        "peekOfCode": "def get_all_platforms_and_browser_used_use(token: str) -> ResponseDTO:\n    user_token = decode_token_base(token)\n    if user_token is None:\n       response = ResponseDTO(status=\"Error\", message=\"Unauthorized\")       \n       return response\n    user_model = user_adapter.get_user_by_username(user_token)\n    if user_model is None:\n       response = ResponseDTO(status=\"Error\", message=\"UserNotfound\")       \n       return response\n    access_urls = access_count_adapter.get_all_platform_and_browsers_adapter()",
+        "detail": "application.shortened.usecase.get_all_platforms_and_browser_used_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "access_count_adapter",
+        "kind": 5,
+        "importPath": "application.shortened.usecase.get_all_platforms_and_browser_used_usecase",
+        "description": "application.shortened.usecase.get_all_platforms_and_browser_used_usecase",
+        "peekOfCode": "access_count_adapter = AccessCountAdapter()\nuser_adapter = UserAdapter()\ndef get_all_platforms_and_browser_used_use(token: str) -> ResponseDTO:\n    user_token = decode_token_base(token)\n    if user_token is None:\n       response = ResponseDTO(status=\"Error\", message=\"Unauthorized\")       \n       return response\n    user_model = user_adapter.get_user_by_username(user_token)\n    if user_model is None:\n       response = ResponseDTO(status=\"Error\", message=\"UserNotfound\")       ",
+        "detail": "application.shortened.usecase.get_all_platforms_and_browser_used_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "user_adapter",
+        "kind": 5,
+        "importPath": "application.shortened.usecase.get_all_platforms_and_browser_used_usecase",
+        "description": "application.shortened.usecase.get_all_platforms_and_browser_used_usecase",
+        "peekOfCode": "user_adapter = UserAdapter()\ndef get_all_platforms_and_browser_used_use(token: str) -> ResponseDTO:\n    user_token = decode_token_base(token)\n    if user_token is None:\n       response = ResponseDTO(status=\"Error\", message=\"Unauthorized\")       \n       return response\n    user_model = user_adapter.get_user_by_username(user_token)\n    if user_model is None:\n       response = ResponseDTO(status=\"Error\", message=\"UserNotfound\")       \n       return response",
+        "detail": "application.shortened.usecase.get_all_platforms_and_browser_used_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_records_clicks_used_use",
+        "kind": 2,
+        "importPath": "application.shortened.usecase.get_all_records_clicks_used_usecase",
+        "description": "application.shortened.usecase.get_all_records_clicks_used_usecase",
+        "peekOfCode": "def get_all_records_clicks_used_use(hash_url:str, token: str) -> ResponseDTO:\n    user_token = decode_token_base(token)\n    if user_token is None:\n       response = ResponseDTO(status=\"Error\", message=\"Unauthorized\")       \n       return response\n    user_model = user_adapter.get_user_by_username(user_token)\n    if user_model is None:\n       response = ResponseDTO(status=\"Error\", message=\"UserNotfound\")       \n       return response\n    access_urls = access_count_adapter.get_all_records_clicks_used_adapter(hash_url)",
+        "detail": "application.shortened.usecase.get_all_records_clicks_used_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "access_count_adapter",
+        "kind": 5,
+        "importPath": "application.shortened.usecase.get_all_records_clicks_used_usecase",
+        "description": "application.shortened.usecase.get_all_records_clicks_used_usecase",
+        "peekOfCode": "access_count_adapter = AccessCountAdapter()\nuser_adapter = UserAdapter()\ndef get_all_records_clicks_used_use(hash_url:str, token: str) -> ResponseDTO:\n    user_token = decode_token_base(token)\n    if user_token is None:\n       response = ResponseDTO(status=\"Error\", message=\"Unauthorized\")       \n       return response\n    user_model = user_adapter.get_user_by_username(user_token)\n    if user_model is None:\n       response = ResponseDTO(status=\"Error\", message=\"UserNotfound\")       ",
+        "detail": "application.shortened.usecase.get_all_records_clicks_used_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "user_adapter",
+        "kind": 5,
+        "importPath": "application.shortened.usecase.get_all_records_clicks_used_usecase",
+        "description": "application.shortened.usecase.get_all_records_clicks_used_usecase",
+        "peekOfCode": "user_adapter = UserAdapter()\ndef get_all_records_clicks_used_use(hash_url:str, token: str) -> ResponseDTO:\n    user_token = decode_token_base(token)\n    if user_token is None:\n       response = ResponseDTO(status=\"Error\", message=\"Unauthorized\")       \n       return response\n    user_model = user_adapter.get_user_by_username(user_token)\n    if user_model is None:\n       response = ResponseDTO(status=\"Error\", message=\"UserNotfound\")       \n       return response",
+        "detail": "application.shortened.usecase.get_all_records_clicks_used_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_short_url_used_use",
+        "kind": 2,
+        "importPath": "application.shortened.usecase.get_all_short_url_used_usecase",
+        "description": "application.shortened.usecase.get_all_short_url_used_usecase",
+        "peekOfCode": "def get_all_short_url_used_use(token: str) -> ResponseDTO:\n    user_token = decode_token_base(token)\n    if user_token is None:\n       response = ResponseDTO(status=\"Error\", message=\"Unauthorized\")       \n       return response\n    user_model = user_adapter.get_user_by_username(user_token)\n    if user_model is None:\n       response = ResponseDTO(status=\"Error\", message=\"UserNotfound\")       \n       return response\n    shorts_urls = short_url_adapter.get_all_short_url_adapter()",
+        "detail": "application.shortened.usecase.get_all_short_url_used_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "long_url_adapter",
+        "kind": 5,
+        "importPath": "application.shortened.usecase.get_all_short_url_used_usecase",
+        "description": "application.shortened.usecase.get_all_short_url_used_usecase",
+        "peekOfCode": "long_url_adapter = LongURLAdapter()\nshort_url_adapter = ShortenedURLAdapter()\nuser_adapter = UserAdapter()\ndef get_all_short_url_used_use(token: str) -> ResponseDTO:\n    user_token = decode_token_base(token)\n    if user_token is None:\n       response = ResponseDTO(status=\"Error\", message=\"Unauthorized\")       \n       return response\n    user_model = user_adapter.get_user_by_username(user_token)\n    if user_model is None:",
+        "detail": "application.shortened.usecase.get_all_short_url_used_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "short_url_adapter",
+        "kind": 5,
+        "importPath": "application.shortened.usecase.get_all_short_url_used_usecase",
+        "description": "application.shortened.usecase.get_all_short_url_used_usecase",
+        "peekOfCode": "short_url_adapter = ShortenedURLAdapter()\nuser_adapter = UserAdapter()\ndef get_all_short_url_used_use(token: str) -> ResponseDTO:\n    user_token = decode_token_base(token)\n    if user_token is None:\n       response = ResponseDTO(status=\"Error\", message=\"Unauthorized\")       \n       return response\n    user_model = user_adapter.get_user_by_username(user_token)\n    if user_model is None:\n       response = ResponseDTO(status=\"Error\", message=\"UserNotfound\")       ",
+        "detail": "application.shortened.usecase.get_all_short_url_used_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "user_adapter",
+        "kind": 5,
+        "importPath": "application.shortened.usecase.get_all_short_url_used_usecase",
+        "description": "application.shortened.usecase.get_all_short_url_used_usecase",
+        "peekOfCode": "user_adapter = UserAdapter()\ndef get_all_short_url_used_use(token: str) -> ResponseDTO:\n    user_token = decode_token_base(token)\n    if user_token is None:\n       response = ResponseDTO(status=\"Error\", message=\"Unauthorized\")       \n       return response\n    user_model = user_adapter.get_user_by_username(user_token)\n    if user_model is None:\n       response = ResponseDTO(status=\"Error\", message=\"UserNotfound\")       \n       return response",
+        "detail": "application.shortened.usecase.get_all_short_url_used_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "get_long_url_by_short_url_use",
+        "kind": 2,
+        "importPath": "application.shortened.usecase.get_short_url_usecase",
+        "description": "application.shortened.usecase.get_short_url_usecase",
+        "peekOfCode": "def get_long_url_by_short_url_use(hash_url: str, token: str) -> ResponseDTO:\n    user_token = decode_token_base(token)\n    if user_token is None:\n       response = ResponseDTO(status=\"Error\", message=\"Unauthorized\")       \n       return response\n    user_model = user_adapter.get_user_by_username(user_token)\n    if user_model is None:\n       response = ResponseDTO(status=\"Error\", message=\"UserNotfound\")       \n       return response\n    result_redis = redis_adapter.get_redis(hash_url)",
+        "detail": "application.shortened.usecase.get_short_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "send_to_redis_cache",
+        "kind": 2,
+        "importPath": "application.shortened.usecase.get_short_url_usecase",
+        "description": "application.shortened.usecase.get_short_url_usecase",
+        "peekOfCode": "def send_to_redis_cache(hash_url:str, get_long_url: str):\n    data_short_url_struct = DataShortenedUrlRedis(short_url=settings.base_url_service + hash_url, long_url= get_long_url, hash_url= hash_url, created_at=datetime.now())\n    redis_adapter.save_short_url_redis(hash_url, data_short_url_struct.to_dict())",
+        "detail": "application.shortened.usecase.get_short_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "long_url_adapter",
+        "kind": 5,
+        "importPath": "application.shortened.usecase.get_short_url_usecase",
+        "description": "application.shortened.usecase.get_short_url_usecase",
+        "peekOfCode": "long_url_adapter = LongURLAdapter()\nshort_url_adapter = ShortenedURLAdapter()\nuser_adapter = UserAdapter()\ndef get_long_url_by_short_url_use(hash_url: str, token: str) -> ResponseDTO:\n    user_token = decode_token_base(token)\n    if user_token is None:\n       response = ResponseDTO(status=\"Error\", message=\"Unauthorized\")       \n       return response\n    user_model = user_adapter.get_user_by_username(user_token)\n    if user_model is None:",
+        "detail": "application.shortened.usecase.get_short_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "short_url_adapter",
+        "kind": 5,
+        "importPath": "application.shortened.usecase.get_short_url_usecase",
+        "description": "application.shortened.usecase.get_short_url_usecase",
+        "peekOfCode": "short_url_adapter = ShortenedURLAdapter()\nuser_adapter = UserAdapter()\ndef get_long_url_by_short_url_use(hash_url: str, token: str) -> ResponseDTO:\n    user_token = decode_token_base(token)\n    if user_token is None:\n       response = ResponseDTO(status=\"Error\", message=\"Unauthorized\")       \n       return response\n    user_model = user_adapter.get_user_by_username(user_token)\n    if user_model is None:\n       response = ResponseDTO(status=\"Error\", message=\"UserNotfound\")       ",
+        "detail": "application.shortened.usecase.get_short_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "user_adapter",
+        "kind": 5,
+        "importPath": "application.shortened.usecase.get_short_url_usecase",
+        "description": "application.shortened.usecase.get_short_url_usecase",
+        "peekOfCode": "user_adapter = UserAdapter()\ndef get_long_url_by_short_url_use(hash_url: str, token: str) -> ResponseDTO:\n    user_token = decode_token_base(token)\n    if user_token is None:\n       response = ResponseDTO(status=\"Error\", message=\"Unauthorized\")       \n       return response\n    user_model = user_adapter.get_user_by_username(user_token)\n    if user_model is None:\n       response = ResponseDTO(status=\"Error\", message=\"UserNotfound\")       \n       return response",
+        "detail": "application.shortened.usecase.get_short_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "redirect_to_long_url_use",
+        "kind": 2,
+        "importPath": "application.shortened.usecase.redirect_to_long_url_usecase",
+        "description": "application.shortened.usecase.redirect_to_long_url_usecase",
+        "peekOfCode": "def redirect_to_long_url_use(hash_url: str, header: str)-> str:\n    save_platform_and_browser(hash_url,header)\n    redirect = \"redirect-\" + hash_url\n    result_redis = redis_adapter.get_redis(redirect)\n    if result_redis is not None: return result_redis.long_url\n    hash_url_model = ShortenedUrlModel(hash_url=hash_url)\n    get_short_url = short_url_adapter.get_short_url_by_hash_url_adapter(hash_url_model)\n    if get_short_url is not None: \n      get_long_url = long_url_adapter.get_long_url_by_long_url_id_adapter(str(get_short_url.long_url_id))\n      long_url_data =str(get_long_url.long_url)",
+        "detail": "application.shortened.usecase.redirect_to_long_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "send_to_redis_cache",
+        "kind": 2,
+        "importPath": "application.shortened.usecase.redirect_to_long_url_usecase",
+        "description": "application.shortened.usecase.redirect_to_long_url_usecase",
+        "peekOfCode": "def send_to_redis_cache(hash_url:str, get_long_url: str):\n    data_short_url_struct = DataShortenedUrlRedis(short_url=settings.base_url_service + hash_url, long_url= get_long_url, hash_url= hash_url, created_at=datetime.now())\n    redis_adapter.save_short_url_redis(hash_url, data_short_url_struct.to_dict())\ndef save_platform_and_browser(hash_url:str, header:str):\n   try:\n      platform = header.split(') ')[0].split(' (')[1]\n   except IndexError:\n      platform = 'Other'\n   try:\n      browser = header.split(') ')[0].split(' (')[0]",
+        "detail": "application.shortened.usecase.redirect_to_long_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "save_platform_and_browser",
+        "kind": 2,
+        "importPath": "application.shortened.usecase.redirect_to_long_url_usecase",
+        "description": "application.shortened.usecase.redirect_to_long_url_usecase",
+        "peekOfCode": "def save_platform_and_browser(hash_url:str, header:str):\n   try:\n      platform = header.split(') ')[0].split(' (')[1]\n   except IndexError:\n      platform = 'Other'\n   try:\n      browser = header.split(') ')[0].split(' (')[0]\n   except IndexError:\n      browser = 'Other'\n   access_count_model = AccessCountModel(hash_url=hash_url, platform=platform, browser=browser, shorted_url=settings.base_url_service+hash_url)",
+        "detail": "application.shortened.usecase.redirect_to_long_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "long_url_adapter",
+        "kind": 5,
+        "importPath": "application.shortened.usecase.redirect_to_long_url_usecase",
+        "description": "application.shortened.usecase.redirect_to_long_url_usecase",
+        "peekOfCode": "long_url_adapter = LongURLAdapter()\nshort_url_adapter = ShortenedURLAdapter()\naccess_count_adapter = AccessCountAdapter()\nuser_adapter = UserAdapter()\ndef redirect_to_long_url_use(hash_url: str, header: str)-> str:\n    save_platform_and_browser(hash_url,header)\n    redirect = \"redirect-\" + hash_url\n    result_redis = redis_adapter.get_redis(redirect)\n    if result_redis is not None: return result_redis.long_url\n    hash_url_model = ShortenedUrlModel(hash_url=hash_url)",
+        "detail": "application.shortened.usecase.redirect_to_long_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "short_url_adapter",
+        "kind": 5,
+        "importPath": "application.shortened.usecase.redirect_to_long_url_usecase",
+        "description": "application.shortened.usecase.redirect_to_long_url_usecase",
+        "peekOfCode": "short_url_adapter = ShortenedURLAdapter()\naccess_count_adapter = AccessCountAdapter()\nuser_adapter = UserAdapter()\ndef redirect_to_long_url_use(hash_url: str, header: str)-> str:\n    save_platform_and_browser(hash_url,header)\n    redirect = \"redirect-\" + hash_url\n    result_redis = redis_adapter.get_redis(redirect)\n    if result_redis is not None: return result_redis.long_url\n    hash_url_model = ShortenedUrlModel(hash_url=hash_url)\n    get_short_url = short_url_adapter.get_short_url_by_hash_url_adapter(hash_url_model)",
+        "detail": "application.shortened.usecase.redirect_to_long_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "access_count_adapter",
+        "kind": 5,
+        "importPath": "application.shortened.usecase.redirect_to_long_url_usecase",
+        "description": "application.shortened.usecase.redirect_to_long_url_usecase",
+        "peekOfCode": "access_count_adapter = AccessCountAdapter()\nuser_adapter = UserAdapter()\ndef redirect_to_long_url_use(hash_url: str, header: str)-> str:\n    save_platform_and_browser(hash_url,header)\n    redirect = \"redirect-\" + hash_url\n    result_redis = redis_adapter.get_redis(redirect)\n    if result_redis is not None: return result_redis.long_url\n    hash_url_model = ShortenedUrlModel(hash_url=hash_url)\n    get_short_url = short_url_adapter.get_short_url_by_hash_url_adapter(hash_url_model)\n    if get_short_url is not None: ",
+        "detail": "application.shortened.usecase.redirect_to_long_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "user_adapter",
+        "kind": 5,
+        "importPath": "application.shortened.usecase.redirect_to_long_url_usecase",
+        "description": "application.shortened.usecase.redirect_to_long_url_usecase",
+        "peekOfCode": "user_adapter = UserAdapter()\ndef redirect_to_long_url_use(hash_url: str, header: str)-> str:\n    save_platform_and_browser(hash_url,header)\n    redirect = \"redirect-\" + hash_url\n    result_redis = redis_adapter.get_redis(redirect)\n    if result_redis is not None: return result_redis.long_url\n    hash_url_model = ShortenedUrlModel(hash_url=hash_url)\n    get_short_url = short_url_adapter.get_short_url_by_hash_url_adapter(hash_url_model)\n    if get_short_url is not None: \n      get_long_url = long_url_adapter.get_long_url_by_long_url_id_adapter(str(get_short_url.long_url_id))",
+        "detail": "application.shortened.usecase.redirect_to_long_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "TestCreateShortUrlUse",
+        "kind": 6,
+        "importPath": "application.shortened.usecase.test_create_long_url_usecase",
+        "description": "application.shortened.usecase.test_create_long_url_usecase",
+        "peekOfCode": "class TestCreateShortUrlUse(unittest.TestCase):\n    @patch('your_module.decode_token_base')\n    def test_success(self, mock_decode_token_base):\n        # Arrange\n        mock_decode_token_base.return_value = 'token'\n        mock_get_user_by_username = patch('your_module.user_adapter.get_user_by_username')\n        mock_get_user_by_username.return_value = {'id': 123, 'username': 'user'}\n        mock_get_redis = patch.object(redis_adapter, 'get_redis')\n        mock_get_redis.return_value = None\n        mock_register_long_url_adapter = patch.object(long_url_adapter, 'register_long_url_adapter')",
+        "detail": "application.shortened.usecase.test_create_long_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "test_register_shortened_url_adapter_error",
+        "kind": 2,
+        "importPath": "application.shortened.usecase.test_create_long_url_usecase",
+        "description": "application.shortened.usecase.test_create_long_url_usecase",
+        "peekOfCode": "def test_register_shortened_url_adapter_error(self, mock_register_long_url_adapter, mock_register_shortened_url_adapter, mock_get_user_by_username, mock_get_redis):\n    # Arrange\n    mock_get_user_by_username.return_value = {'id': 123, 'username': 'testuser'}\n    mock_get_redis.return_value = None\n    mock_register_long_url_adapter.return_value = LongUrlModel(id=1, user_id=123, long_url=\"https://www.example.com\")\n    mock_register_shortened_url_adapter.return_value = None\n    request_data = ShortenedUrlRequestDTO(long_url=\"https://www.example.com\")\n    token = 'valid_token'\n    # Act\n    response = create_short_url_use(request_data, token)",
+        "detail": "application.shortened.usecase.test_create_long_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "test_register_long_url_adapter_error",
+        "kind": 2,
+        "importPath": "application.shortened.usecase.test_create_long_url_usecase",
+        "description": "application.shortened.usecase.test_create_long_url_usecase",
+        "peekOfCode": "def test_register_long_url_adapter_error(self, mock_register_long_url_adapter, mock_register_shortened_url_adapter, mock_get_user_by_username, mock_get_redis):\n    # Arrange\n    mock_get_user_by_username.return_value = {'id': 123, 'username': 'testuser'}\n    mock_get_redis.return_value = None\n    mock_register_long_url_adapter.return_value = None\n    request_data = ShortenedUrlRequestDTO(long_url=\"https://www.example.com\")\n    token = 'valid_token'\n    # Act\n    response = create_short_url_use(request_data, token)\n    # Assert",
+        "detail": "application.shortened.usecase.test_create_long_url_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_token",
+        "kind": 2,
+        "importPath": "application.shortened.usecase.user_usecase",
+        "description": "application.shortened.usecase.user_usecase",
+        "peekOfCode": "def get_user_token(username: str) -> UserModel:\n    user = user_adapter.get_user_by_username(username)\n    token_expiration = datetime.utcnow() + timedelta(hours=1)\n    token = jwt.encode({\n        \"sub\": user.username,\n        \"exp\": token_expiration.timestamp()\n    }, settings.jwt_secret, algorithm=\"HS256\")\n    return user, token, token_expiration",
+        "detail": "application.shortened.usecase.user_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "user_adapter",
+        "kind": 5,
+        "importPath": "application.shortened.usecase.user_usecase",
+        "description": "application.shortened.usecase.user_usecase",
+        "peekOfCode": "user_adapter = UserAdapter()\ndef get_user_token(username: str) -> UserModel:\n    user = user_adapter.get_user_by_username(username)\n    token_expiration = datetime.utcnow() + timedelta(hours=1)\n    token = jwt.encode({\n        \"sub\": user.username,\n        \"exp\": token_expiration.timestamp()\n    }, settings.jwt_secret, algorithm=\"HS256\")\n    return user, token, token_expiration",
+        "detail": "application.shortened.usecase.user_usecase",
+        "documentation": {}
+    },
+    {
+        "label": "migrate",
+        "kind": 2,
+        "importPath": "infra.adapters.database.migrations.migration",
+        "description": "infra.adapters.database.migrations.migration",
+        "peekOfCode": "def migrate(users: Collection, user: UserModel):\n    create_collection_models()\n    existing_index = users.index_information().get(\"password_1\")\n    if existing_index:\n        users.drop_index(\"password_1\")\n    users.create_indexes([\n        IndexModel([(\"password\", ASCENDING)], unique=True, dropDups=True),\n        IndexModel([(\"username\", ASCENDING)],unique=True, dropDups=True),\n    ])\n    users.insert_one(user.dict())",
+        "detail": "infra.adapters.database.migrations.migration",
+        "documentation": {}
+    },
+    {
+        "label": "execute_migration",
+        "kind": 2,
+        "importPath": "infra.adapters.database.migrations.migration",
+        "description": "infra.adapters.database.migrations.migration",
+        "peekOfCode": "def execute_migration():\n    try:\n        users = db['users']\n        existing_user = users.find_one({'username': 'test@test.com'})\n        if existing_user:\n         users.delete_one({'username': 'test@test.com'})\n    except Exception as e:\n        print(f\"Error database connection: {e}\")\n        return\n    print(users, UserModel)",
+        "detail": "infra.adapters.database.migrations.migration",
+        "documentation": {}
+    },
+    {
+        "label": "create_collection_models",
+        "kind": 2,
+        "importPath": "infra.adapters.database.migrations.migration",
+        "description": "infra.adapters.database.migrations.migration",
+        "peekOfCode": "def create_collection_models():\n   if 'access_count' not in db.list_collection_names():\n    access_count_collection = db.create_collection('access_count', codec_options=CodecOptions())\n    access_count_collection.insert_one(AccessCountModel().dict())\n   if 'logs' not in db.list_collection_names():\n    logs_collection = db.create_collection('logs', codec_options=CodecOptions())\n    logs_collection.insert_one(LogsModel().dict())\n   if 'long_url' not in db.list_collection_names():\n    long_url_collection = db.create_collection('long_url', codec_options=CodecOptions())\n    long_url_collection.insert_one(LongUrlModel().dict())",
+        "detail": "infra.adapters.database.migrations.migration",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "infra.adapters.database.migrations.migration",
+        "description": "infra.adapters.database.migrations.migration",
+        "peekOfCode": "client = MongoClient(settings.mongo_uri)\ndb = client['shortened_url']\ndef migrate(users: Collection, user: UserModel):\n    create_collection_models()\n    existing_index = users.index_information().get(\"password_1\")\n    if existing_index:\n        users.drop_index(\"password_1\")\n    users.create_indexes([\n        IndexModel([(\"password\", ASCENDING)], unique=True, dropDups=True),\n        IndexModel([(\"username\", ASCENDING)],unique=True, dropDups=True),",
+        "detail": "infra.adapters.database.migrations.migration",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "infra.adapters.database.migrations.migration",
+        "description": "infra.adapters.database.migrations.migration",
+        "peekOfCode": "db = client['shortened_url']\ndef migrate(users: Collection, user: UserModel):\n    create_collection_models()\n    existing_index = users.index_information().get(\"password_1\")\n    if existing_index:\n        users.drop_index(\"password_1\")\n    users.create_indexes([\n        IndexModel([(\"password\", ASCENDING)], unique=True, dropDups=True),\n        IndexModel([(\"username\", ASCENDING)],unique=True, dropDups=True),\n    ])",
+        "detail": "infra.adapters.database.migrations.migration",
+        "documentation": {}
+    },
+    {
+        "label": "AccessCountModel",
+        "kind": 6,
+        "importPath": "infra.adapters.database.models.access_count_models",
+        "description": "infra.adapters.database.models.access_count_models",
+        "peekOfCode": "class AccessCountModel(BaseModel):\n    id: Optional[str]\n    platform: Optional[str]\n    browser: Optional[str]\n    shorted_url: Optional[str]\n    hash_url: Optional[str]\n    is_deleted:  bool = False\n    created_at: datetime = Field(default_factory=datetime.now)",
+        "detail": "infra.adapters.database.models.access_count_models",
+        "documentation": {}
+    },
+    {
+        "label": "LogsModel",
+        "kind": 6,
+        "importPath": "infra.adapters.database.models.logs_models",
+        "description": "infra.adapters.database.models.logs_models",
+        "peekOfCode": "class LogsModel(BaseModel):\n    id: Optional[str]\n    details_id:  Optional[str]\n    message:  Optional[str]\n    is_deleted:  bool = False\n    created_at: datetime = Field(default_factory=datetime.now)",
+        "detail": "infra.adapters.database.models.logs_models",
+        "documentation": {}
+    },
+    {
+        "label": "LongUrlModel",
+        "kind": 6,
+        "importPath": "infra.adapters.database.models.long_url_models",
+        "description": "infra.adapters.database.models.long_url_models",
+        "peekOfCode": "class LongUrlModel(BaseModel):\n    id: Optional[str]\n    user_id:  Optional[str]\n    long_url:  Optional[str]\n    is_deleted:  bool = False\n    created_at: datetime = Field(default_factory=datetime.now)",
+        "detail": "infra.adapters.database.models.long_url_models",
+        "documentation": {}
+    },
+    {
+        "label": "PlatformModel",
+        "kind": 6,
+        "importPath": "infra.adapters.database.models.platform_models",
+        "description": "infra.adapters.database.models.platform_models",
+        "peekOfCode": "class PlatformModel(BaseModel):\n    id: Optional[str]\n    platform_name:  Optional[str]\n    is_web:  Optional[bool]\n    is_deleted:  bool = False\n    created_at: datetime = Field(default_factory=datetime.now)",
+        "detail": "infra.adapters.database.models.platform_models",
+        "documentation": {}
+    },
+    {
+        "label": "ShortenedUrlModel",
+        "kind": 6,
+        "importPath": "infra.adapters.database.models.shortened_url_models",
+        "description": "infra.adapters.database.models.shortened_url_models",
+        "peekOfCode": "class ShortenedUrlModel(BaseModel):\n    id: Optional[str]\n    user_id: Optional[str]\n    long_url_id:  Optional[str]\n    is_deleted:  bool = False\n    hash_url:  Optional[str]\n    created_at: datetime = Field(default_factory=datetime.now)",
+        "detail": "infra.adapters.database.models.shortened_url_models",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "kind": 6,
+        "importPath": "infra.adapters.database.models.user_models",
+        "description": "infra.adapters.database.models.user_models",
+        "peekOfCode": "class UserModel(BaseModel):\n    id: Optional[str]\n    username: Optional[str]\n    password: Optional[str]\n    is_deleted:  bool = False",
+        "detail": "infra.adapters.database.models.user_models",
+        "documentation": {}
+    },
+    {
+        "label": "DataShortenedUrlRedis",
+        "kind": 6,
+        "importPath": "infra.adapters.redis.models.redis_model",
+        "description": "infra.adapters.redis.models.redis_model",
+        "peekOfCode": "class DataShortenedUrlRedis:\n    def __init__(self, long_url: str, short_url:str, hash_url:str, created_at: datetime):\n        self.long_url = long_url\n        self.short_url = short_url\n        self.hash_url = hash_url\n        self.created_at = created_at\n    def to_dict(self):\n        return {\n            'short_url': self.short_url,\n            'long_url': self.long_url,",
+        "detail": "infra.adapters.redis.models.redis_model",
+        "documentation": {}
+    },
+    {
+        "label": "MyEncoder",
+        "kind": 6,
+        "importPath": "infra.adapters.redis.redis",
+        "description": "infra.adapters.redis.redis",
+        "peekOfCode": "class MyEncoder:\n    def encode(self, data):\n        return data.encode('utf-8')\n    def decode(self, encoded_data):\n        return encoded_data.decode('utf-8')\nclass RedisInterface:\n    def __init__(self):\n        self.redis = redis.Redis(host=settings.host_redis, port=settings.port_redis)\n    def get(self, key):\n        return self.redis.get(key)",
+        "detail": "infra.adapters.redis.redis",
+        "documentation": {}
+    },
+    {
+        "label": "RedisInterface",
+        "kind": 6,
+        "importPath": "infra.adapters.redis.redis",
+        "description": "infra.adapters.redis.redis",
+        "peekOfCode": "class RedisInterface:\n    def __init__(self):\n        self.redis = redis.Redis(host=settings.host_redis, port=settings.port_redis)\n    def get(self, key):\n        return self.redis.get(key)\n    def set(self, key, value):\n        return self.redis.set(key, value)\n    def delete(self, key):\n        return self.redis.delete(key)\nclass RedisAdapter:",
+        "detail": "infra.adapters.redis.redis",
+        "documentation": {}
+    },
+    {
+        "label": "RedisAdapter",
+        "kind": 6,
+        "importPath": "infra.adapters.redis.redis",
+        "description": "infra.adapters.redis.redis",
+        "peekOfCode": "class RedisAdapter:\n    def __init__(self, redis_interface):\n        self.redis = redis_interface\n        self.json = json\n    def get_redis(self, key):\n        data = self.redis.get(f\"key:{key}\")\n        if data is None: return\n        data_dict = json.loads(data)\n        return  DataShortenedUrlRedis(**data_dict)\n    def save_short_url_redis(self, hash_url, data):",
+        "detail": "infra.adapters.redis.redis",
+        "documentation": {}
+    },
+    {
+        "label": "redis_interface",
+        "kind": 5,
+        "importPath": "infra.adapters.redis.redis_config",
+        "description": "infra.adapters.redis.redis_config",
+        "peekOfCode": "redis_interface = RedisInterface()\nredis_adapter = RedisAdapter(redis_interface=redis_interface)",
+        "detail": "infra.adapters.redis.redis_config",
+        "documentation": {}
+    },
+    {
+        "label": "redis_adapter",
+        "kind": 5,
+        "importPath": "infra.adapters.redis.redis_config",
+        "description": "infra.adapters.redis.redis_config",
+        "peekOfCode": "redis_adapter = RedisAdapter(redis_interface=redis_interface)",
+        "detail": "infra.adapters.redis.redis_config",
+        "documentation": {}
+    },
+    {
+        "label": "AccessCountAdapter",
+        "kind": 6,
+        "importPath": "infra.adapters.shortened.access_count_adapter",
+        "description": "infra.adapters.shortened.access_count_adapter",
+        "peekOfCode": "class AccessCountAdapter(BaseAdapter):\n    def register_access_count_adapter(self, access_count: AccessCountModel) ->AccessCountModel:\n        try:\n            collection = self.db['access_count']\n            access_count_dict = access_count.dict()\n            result =  collection.insert_one(access_count_dict)\n            return result.inserted_id is not None\n        except PyMongoError as e:\n            print(f\"An error occurred while creating user: {e}\")\n            return False",
+        "detail": "infra.adapters.shortened.access_count_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "BaseAdapter",
+        "kind": 6,
+        "importPath": "infra.adapters.shortened.base_adapter",
+        "description": "infra.adapters.shortened.base_adapter",
+        "peekOfCode": "class BaseAdapter(ABC):\n    def __init__(self):\n        self.client = MongoClient(settings.mongo_uri)\n        self.db = self.client[settings.database_name]\n    def __del__(self):\n        self.client.close()",
+        "detail": "infra.adapters.shortened.base_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "LongURLAdapter",
+        "kind": 6,
+        "importPath": "infra.adapters.shortened.long_url_adapter",
+        "description": "infra.adapters.shortened.long_url_adapter",
+        "peekOfCode": "class LongURLAdapter(BaseAdapter):\n    def register_long_url_adapter(self, long_url_document: LongUrlModel):\n        try:\n            collection = self.db['long_url']\n            long_url_dict = long_url_document.dict()\n            result =  collection.insert_one(long_url_dict)\n            if result.inserted_id is None:\n                return None\n            url_long_id = str(result.inserted_id)\n            return LongUrlModel(id=url_long_id)",
+        "detail": "infra.adapters.shortened.long_url_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "ShortenedURLAdapter",
+        "kind": 6,
+        "importPath": "infra.adapters.shortened.shortened_url_adapter",
+        "description": "infra.adapters.shortened.shortened_url_adapter",
+        "peekOfCode": "class ShortenedURLAdapter(BaseAdapter):\n    def register_shortened_url_adapter(self, short_url_document: ShortenedUrlModel):\n        try:\n            collection = self.db['shortened_url']\n            short_url_dict = short_url_document.dict()\n            result =  collection.insert_one(short_url_dict)\n            return result.inserted_id is not None\n        except PyMongoError as e:\n            print(f\"An error occurred while creating user: {e}\")\n            return False",
+        "detail": "infra.adapters.shortened.shortened_url_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdapter",
+        "kind": 6,
+        "importPath": "infra.adapters.shortened.user_adapter",
+        "description": "infra.adapters.shortened.user_adapter",
+        "peekOfCode": "class UserAdapter(BaseAdapter):\n    def create_user(self, user: UserModel):\n        try:\n            collection = self.db['users']\n            result =  collection.insert_one(user)\n            return result.inserted_id is not None\n        except PyMongoError as e:\n            print(f\"An error occurred while creating user: {e}\")\n            return False\n    def get_user_by_username(self, username: str) -> UserModel:",
+        "detail": "infra.adapters.shortened.user_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "infra.config.config",
+        "description": "infra.config.config",
+        "peekOfCode": "class Settings(BaseSettings):\n    mongo_uri: str\n    database_name: str\n    jwt_secret: str\n    host_redis: str\n    port_redis: int\n    base_url_service: str\n    class Config:\n        env_prefix = \"APP_\"\n        env_file = \".env\"",
+        "detail": "infra.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "infra.config.config",
+        "description": "infra.config.config",
+        "peekOfCode": "settings = Settings()",
+        "detail": "infra.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "LongUrlResponseDTO",
+        "kind": 6,
+        "importPath": "infra.handlers.dtos.access_count",
+        "description": "infra.handlers.dtos.access_count",
+        "peekOfCode": "class LongUrlResponseDTO(BaseModel):\n    long_url: str\n    hash_url: str\n    created_at: datetime\n    is_deleted: Optional[bool] = False\nclass AccessCountDTO(BaseModel):\n    platform: Optional[str]\n    browser: Optional[str]\n    shorted_url: Optional[str]\nclass AccessCountUrlResponseDTO(BaseModel):",
+        "detail": "infra.handlers.dtos.access_count",
+        "documentation": {}
+    },
+    {
+        "label": "AccessCountDTO",
+        "kind": 6,
+        "importPath": "infra.handlers.dtos.access_count",
+        "description": "infra.handlers.dtos.access_count",
+        "peekOfCode": "class AccessCountDTO(BaseModel):\n    platform: Optional[str]\n    browser: Optional[str]\n    shorted_url: Optional[str]\nclass AccessCountUrlResponseDTO(BaseModel):\n    long_url_id: str\n    long_url: str\n    hash_url: str\n    user_id: Optional[str]\n    access_counts: Optional[List[AccessCountDTO]] = None",
+        "detail": "infra.handlers.dtos.access_count",
+        "documentation": {}
+    },
+    {
+        "label": "AccessCountUrlResponseDTO",
+        "kind": 6,
+        "importPath": "infra.handlers.dtos.access_count",
+        "description": "infra.handlers.dtos.access_count",
+        "peekOfCode": "class AccessCountUrlResponseDTO(BaseModel):\n    long_url_id: str\n    long_url: str\n    hash_url: str\n    user_id: Optional[str]\n    access_counts: Optional[List[AccessCountDTO]] = None\nclass ClickDTO:\n    def __init__(self, long_url_id, long_url, user_id, is_deleted, hash_urls):\n        self.long_url_id = long_url_id\n        self.long_url = long_url",
+        "detail": "infra.handlers.dtos.access_count",
+        "documentation": {}
+    },
+    {
+        "label": "ClickDTO",
+        "kind": 6,
+        "importPath": "infra.handlers.dtos.access_count",
+        "description": "infra.handlers.dtos.access_count",
+        "peekOfCode": "class ClickDTO:\n    def __init__(self, long_url_id, long_url, user_id, is_deleted, hash_urls):\n        self.long_url_id = long_url_id\n        self.long_url = long_url\n        self.user_id = user_id\n        self.is_deleted = is_deleted\n        self.hash_urls = hash_urls\n    def to_dict(self):\n        return {\n            'long_url_id': self.long_url_id,",
+        "detail": "infra.handlers.dtos.access_count",
+        "documentation": {}
+    },
+    {
+        "label": "LogsDTO",
+        "kind": 6,
+        "importPath": "infra.handlers.dtos.logs",
+        "description": "infra.handlers.dtos.logs",
+        "peekOfCode": "class LogsDTO(BaseModel):\n    details_id: str\n    message: str",
+        "detail": "infra.handlers.dtos.logs",
+        "documentation": {}
+    },
+    {
+        "label": "LongUrlDTO",
+        "kind": 6,
+        "importPath": "infra.handlers.dtos.long_url",
+        "description": "infra.handlers.dtos.long_url",
+        "peekOfCode": "class LongUrlDTO(BaseModel):\n    user_id: int\n    long_url: str\nclass ShortUrlRequestDTO(BaseModel):\n    short_url: str",
+        "detail": "infra.handlers.dtos.long_url",
+        "documentation": {}
+    },
+    {
+        "label": "ShortUrlRequestDTO",
+        "kind": 6,
+        "importPath": "infra.handlers.dtos.long_url",
+        "description": "infra.handlers.dtos.long_url",
+        "peekOfCode": "class ShortUrlRequestDTO(BaseModel):\n    short_url: str",
+        "detail": "infra.handlers.dtos.long_url",
+        "documentation": {}
+    },
+    {
+        "label": "PlatformDTO",
+        "kind": 6,
+        "importPath": "infra.handlers.dtos.platform",
+        "description": "infra.handlers.dtos.platform",
+        "peekOfCode": "class PlatformDTO(BaseModel):\n    platform_name: str\n    is_web: bool",
+        "detail": "infra.handlers.dtos.platform",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseDTO",
+        "kind": 6,
+        "importPath": "infra.handlers.dtos.response",
+        "description": "infra.handlers.dtos.response",
+        "peekOfCode": "class ResponseDTO(BaseModel):\n    status: str\n    message: str\n    data: Any = None",
+        "detail": "infra.handlers.dtos.response",
+        "documentation": {}
+    },
+    {
+        "label": "ShortenedUrlDTO",
+        "kind": 6,
+        "importPath": "infra.handlers.dtos.shortened_url",
+        "description": "infra.handlers.dtos.shortened_url",
+        "peekOfCode": "class ShortenedUrlDTO(BaseModel):\n    user_id: str\n    long_url_id: str\n    hash_url: str\nclass ShortenedUrlRequestDTO(BaseModel):\n    long_url: str\nclass ShortenedUrlResponseDTO(BaseModel):\n    _id: str\n    long_url_id: str\n    long_url: str",
+        "detail": "infra.handlers.dtos.shortened_url",
+        "documentation": {}
+    },
+    {
+        "label": "ShortenedUrlRequestDTO",
+        "kind": 6,
+        "importPath": "infra.handlers.dtos.shortened_url",
+        "description": "infra.handlers.dtos.shortened_url",
+        "peekOfCode": "class ShortenedUrlRequestDTO(BaseModel):\n    long_url: str\nclass ShortenedUrlResponseDTO(BaseModel):\n    _id: str\n    long_url_id: str\n    long_url: str\n    hash_url: str\n    user_id: Optional[str]",
+        "detail": "infra.handlers.dtos.shortened_url",
+        "documentation": {}
+    },
+    {
+        "label": "ShortenedUrlResponseDTO",
+        "kind": 6,
+        "importPath": "infra.handlers.dtos.shortened_url",
+        "description": "infra.handlers.dtos.shortened_url",
+        "peekOfCode": "class ShortenedUrlResponseDTO(BaseModel):\n    _id: str\n    long_url_id: str\n    long_url: str\n    hash_url: str\n    user_id: Optional[str]",
+        "detail": "infra.handlers.dtos.shortened_url",
+        "documentation": {}
+    },
+    {
+        "label": "UserDTO",
+        "kind": 6,
+        "importPath": "infra.handlers.dtos.user",
+        "description": "infra.handlers.dtos.user",
+        "peekOfCode": "class UserDTO(BaseModel):\n    username: str\n    password: str",
+        "detail": "infra.handlers.dtos.user",
+        "documentation": {}
+    },
+    {
+        "label": "MessageResponse",
+        "kind": 6,
+        "importPath": "infra.handlers.enums.message_event",
+        "description": "infra.handlers.enums.message_event",
+        "peekOfCode": "class MessageResponse(Enum):\n    SUCCESS = \"Ok\"\n    ERROR = \"Error\"\n    MESSAGE_CREATED = \"Created\"\n    MESSAGE_UNAUTHORIZED = \"Unauthorized\"\n    MESSAGE_NOTFOUND = \"Not Found\"\n    MESSAGE_INTERNAL = \"Internal Server Error\"\n    MESSAGE_BAD_GATEWAY = \"Bad Gateway\"\n    MESSAGE_FOUND = \"Found register\"",
+        "detail": "infra.handlers.enums.message_event",
+        "documentation": {}
+    },
+    {
+        "label": "create_short_url_handler",
+        "kind": 2,
+        "importPath": "infra.handlers.create_long_url_handler",
+        "description": "infra.handlers.create_long_url_handler",
+        "peekOfCode": "def create_short_url_handler(long_url: str, token: str) -> ResponseDTO:\n    response = create_short_url_use(long_url, token)\n    if response.message == \"Unauthorized\":\n     return JSONResponse(status_code=401, content=jsonable_encoder(response))\n    if response.message == \"UserNotfound\":\n     return JSONResponse(status_code=400, content=jsonable_encoder(response))\n    if response.message == \"RegisterNotFound\":\n     return JSONResponse(status_code=200, content=jsonable_encoder(response))\n    if response.message == \"RegisterFound\":\n     return JSONResponse(status_code=302, content=jsonable_encoder(response))",
+        "detail": "infra.handlers.create_long_url_handler",
+        "documentation": {}
+    },
+    {
+        "label": "delete_long_short_url_handler",
+        "kind": 2,
+        "importPath": "infra.handlers.delete_short_url_handler",
+        "description": "infra.handlers.delete_short_url_handler",
+        "peekOfCode": "def delete_long_short_url_handler(short_url: str, token: str) -> ResponseDTO:\n    response = delete_short_url_use(short_url, token)\n    if response.message == \"Unauthorized\":\n     return JSONResponse(status_code=401, content=jsonable_encoder(response))\n    if response.message == \"UserNotfound\":\n     return JSONResponse(status_code=400, content=jsonable_encoder(response))\n    if response.message == \"RegisterNotFound\":\n     return JSONResponse(status_code=400, content=jsonable_encoder(response))\n    if response.message == \"RegisterFound\":\n     return JSONResponse(status_code=302, content=jsonable_encoder(response))",
+        "detail": "infra.handlers.delete_short_url_handler",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_platforms_and_browser_used_handler",
+        "kind": 2,
+        "importPath": "infra.handlers.get_all_platforms_and_browser_used_handler",
+        "description": "infra.handlers.get_all_platforms_and_browser_used_handler",
+        "peekOfCode": "def get_all_platforms_and_browser_used_handler(token: str) -> ResponseDTO:\n    response = get_all_platforms_and_browser_used_use(token)\n    if response.message == \"Unauthorized\":\n     return JSONResponse(status_code=401, content=jsonable_encoder(response))\n    if response.message == \"UserNotfound\":\n     return JSONResponse(status_code=400, content=jsonable_encoder(response))\n    if response.message == \"RegisterFound\":\n     return JSONResponse(status_code=302, content=jsonable_encoder(response))\n    if response.message == \"UnexpectedError\":\n     return JSONResponse(status_code=500, content=jsonable_encoder(response))",
+        "detail": "infra.handlers.get_all_platforms_and_browser_used_handler",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_records_clicks_used_handler",
+        "kind": 2,
+        "importPath": "infra.handlers.get_all_records_clicks_used_handler",
+        "description": "infra.handlers.get_all_records_clicks_used_handler",
+        "peekOfCode": "def get_all_records_clicks_used_handler(hash_url:str, token: str) -> ResponseDTO:\n    response = get_all_records_clicks_used_use(hash_url,token)\n    if response.message == \"Unauthorized\":\n     return JSONResponse(status_code=401, content=jsonable_encoder(response))\n    if response.message == \"UserNotfound\":\n     return JSONResponse(status_code=400, content=jsonable_encoder(response))\n    if response.message == \"RegisterFound\":\n     return JSONResponse(status_code=302, content=jsonable_encoder(response))\n    if response.message == \"UnexpectedError\":\n     return JSONResponse(status_code=500, content=jsonable_encoder(response))",
+        "detail": "infra.handlers.get_all_records_clicks_used_handler",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_short_url_used_handler",
+        "kind": 2,
+        "importPath": "infra.handlers.get_all_short_url_used_handler",
+        "description": "infra.handlers.get_all_short_url_used_handler",
+        "peekOfCode": "def get_all_short_url_used_handler(token: str) -> ResponseDTO:\n    response = get_all_short_url_used_use(token)\n    if response.message == \"Unauthorized\":\n     return JSONResponse(status_code=401, content=jsonable_encoder(response))\n    if response.message == \"UserNotfound\":\n     return JSONResponse(status_code=400, content=jsonable_encoder(response))\n    if response.message == \"RegisterFound\":\n     return JSONResponse(status_code=302, content=jsonable_encoder(response))\n    if response.message == \"UnexpectedError\":\n     return JSONResponse(status_code=500, content=jsonable_encoder(response))",
+        "detail": "infra.handlers.get_all_short_url_used_handler",
+        "documentation": {}
+    },
+    {
+        "label": "get_long_url_by_short_url_handler",
+        "kind": 2,
+        "importPath": "infra.handlers.get_long_url_handler",
+        "description": "infra.handlers.get_long_url_handler",
+        "peekOfCode": "def get_long_url_by_short_url_handler(hash_url: str, token: str) -> ResponseDTO:\n    response = get_long_url_by_short_url_use(hash_url, token)\n    if response.message == \"Unauthorized\":\n     return JSONResponse(status_code=401, content=jsonable_encoder(response))\n    if response.message == \"UserNotfound\":\n     return JSONResponse(status_code=400, content=jsonable_encoder(response))\n    if response.message == \"RegisterFound\":\n     return JSONResponse(status_code=302, content=jsonable_encoder(response))\n    if response.message == \"UnexpectedError\":\n     return JSONResponse(status_code=500, content=jsonable_encoder(response))",
+        "detail": "infra.handlers.get_long_url_handler",
+        "documentation": {}
+    },
+    {
+        "label": "create_short_url_handler",
+        "kind": 2,
+        "importPath": "infra.handlers.long_url_handler",
+        "description": "infra.handlers.long_url_handler",
+        "peekOfCode": "def create_short_url_handler(long_url: str, token: str) -> ResponseDTO:\n    response = create_short_url_use(long_url, token)\n    if response.message == \"Unauthorized\":\n     return JSONResponse(status_code=401, content=jsonable_encoder(response))\n    if response.message == \"UserNotfound\":\n     return JSONResponse(status_code=400, content=jsonable_encoder(response))\n    if response.message == \"RegisterFound\":\n     return JSONResponse(status_code=302, content=jsonable_encoder(response))\n    if response.message == \"UnexpectedError\":\n     return JSONResponse(status_code=500, content=jsonable_encoder(response))",
+        "detail": "infra.handlers.long_url_handler",
+        "documentation": {}
+    },
+    {
+        "label": "redirect_to_long_url_handler",
+        "kind": 2,
+        "importPath": "infra.handlers.redirect_to_long_url_handler",
+        "description": "infra.handlers.redirect_to_long_url_handler",
+        "peekOfCode": "def redirect_to_long_url_handler(short_url: str, header:str):\n   response = Response()\n   try:\n     long_url = redirect_to_long_url_use(short_url, header)\n     response.headers[\"Location\"] = long_url\n     response.status_code = 302\n     return response\n   except Exception as e:\n    raise HTTPException(status_code=500, detail=\"Error long url not found\")",
+        "detail": "infra.handlers.redirect_to_long_url_handler",
+        "documentation": {}
+    },
+    {
+        "label": "create_short_url_handler",
+        "kind": 2,
+        "importPath": "infra.handlers.register_long_url_handler",
+        "description": "infra.handlers.register_long_url_handler",
+        "peekOfCode": "def create_short_url_handler(long_url: str, token: str) -> ResponseDTO:\n    response = create_short_url_use(long_url, token)\n    if response.message == \"Unauthorized\":\n     return JSONResponse(status_code=401, content=jsonable_encoder(response))\n    if response.message == \"UserNotfound\":\n     return JSONResponse(status_code=400, content=jsonable_encoder(response))\n    if response.message == \"RegisterFound\":\n     return JSONResponse(status_code=302, content=jsonable_encoder(response))\n    if response.message == \"UnexpectedError\":\n     return JSONResponse(status_code=500, content=jsonable_encoder(response))",
+        "detail": "infra.handlers.register_long_url_handler",
+        "documentation": {}
+    },
+    {
+        "label": "create_short_url_handler",
+        "kind": 2,
+        "importPath": "infra.handlers.url_handler",
+        "description": "infra.handlers.url_handler",
+        "peekOfCode": "def create_short_url_handler(long_url: str, token: str) -> ResponseDTO:\n    response = create_short_url_use(long_url, token)\n    if response.message == \"Unauthorized\":\n     return JSONResponse(status_code=401, content=jsonable_encoder(response))\n    if response.message == \"UserNotfound\":\n     return JSONResponse(status_code=400, content=jsonable_encoder(response))\n    if response.message == \"RegisterFound\":\n     return JSONResponse(status_code=302, content=jsonable_encoder(response))\n    if response.message == \"UnexpectedError\":\n     return JSONResponse(status_code=500, content=jsonable_encoder(response))",
+        "detail": "infra.handlers.url_handler",
+        "documentation": {}
+    },
+    {
+        "label": "get_token_handler",
+        "kind": 2,
+        "importPath": "infra.handlers.user_handler",
+        "description": "infra.handlers.user_handler",
+        "peekOfCode": "def get_token_handler(credentials: HTTPBasicCredentials):\n    user, token, token_expiration = get_user_token(credentials.username)\n    if not user or user.password != credentials.password:\n        raise HTTPException(status_code=401, detail=\"Invalid username or password\")\n    return {\n        \"access_token\": token,\n        \"token_type\": \"bearer\",\n        \"expires_at\": token_expiration\n    }",
+        "detail": "infra.handlers.user_handler",
+        "documentation": {}
+    },
+    {
+        "label": "create_short_url",
+        "kind": 2,
+        "importPath": "infra.routes.urls_route",
+        "description": "infra.routes.urls_route",
+        "peekOfCode": "def create_short_url(long_url: ShortenedUrlRequestDTO, token: str =Header(None, alias='Authorization')):\n     return create_short_url_handler(long_url.long_url, token)\n@shortened.get('/record/register')\ndef get_all_short_url_used(token: str =Header(None, alias='Authorization')):\n     return get_all_short_url_used_handler(token)\n@shortened.get('/record/platforms/used')\ndef get_all_platforms_and_browser_used(token: str =Header(None, alias='Authorization')):\n     return get_all_platforms_and_browser_used_handler(token)\n@shortened.get('/record/clicks/used/{hash_url}')\ndef get_all_records_clicks_used(hash_url:str,token: str =Header(None, alias='Authorization')):",
+        "detail": "infra.routes.urls_route",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_short_url_used",
+        "kind": 2,
+        "importPath": "infra.routes.urls_route",
+        "description": "infra.routes.urls_route",
+        "peekOfCode": "def get_all_short_url_used(token: str =Header(None, alias='Authorization')):\n     return get_all_short_url_used_handler(token)\n@shortened.get('/record/platforms/used')\ndef get_all_platforms_and_browser_used(token: str =Header(None, alias='Authorization')):\n     return get_all_platforms_and_browser_used_handler(token)\n@shortened.get('/record/clicks/used/{hash_url}')\ndef get_all_records_clicks_used(hash_url:str,token: str =Header(None, alias='Authorization')):\n     return get_all_records_clicks_used_handler(hash_url, token)\n@shortened.get('/long-url-by/{hash_url}')\ndef get_long_url_by_short_url(hash_url: str, token: str =Header(None, alias='Authorization')):",
+        "detail": "infra.routes.urls_route",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_platforms_and_browser_used",
+        "kind": 2,
+        "importPath": "infra.routes.urls_route",
+        "description": "infra.routes.urls_route",
+        "peekOfCode": "def get_all_platforms_and_browser_used(token: str =Header(None, alias='Authorization')):\n     return get_all_platforms_and_browser_used_handler(token)\n@shortened.get('/record/clicks/used/{hash_url}')\ndef get_all_records_clicks_used(hash_url:str,token: str =Header(None, alias='Authorization')):\n     return get_all_records_clicks_used_handler(hash_url, token)\n@shortened.get('/long-url-by/{hash_url}')\ndef get_long_url_by_short_url(hash_url: str, token: str =Header(None, alias='Authorization')):\n     return get_long_url_by_short_url_handler(hash_url, token)\n@shortened.delete('/delete-by/{hash_url}')\ndef delete_short_url(hash_url: str, token: str =Header(None, alias='Authorization')):",
+        "detail": "infra.routes.urls_route",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_records_clicks_used",
+        "kind": 2,
+        "importPath": "infra.routes.urls_route",
+        "description": "infra.routes.urls_route",
+        "peekOfCode": "def get_all_records_clicks_used(hash_url:str,token: str =Header(None, alias='Authorization')):\n     return get_all_records_clicks_used_handler(hash_url, token)\n@shortened.get('/long-url-by/{hash_url}')\ndef get_long_url_by_short_url(hash_url: str, token: str =Header(None, alias='Authorization')):\n     return get_long_url_by_short_url_handler(hash_url, token)\n@shortened.delete('/delete-by/{hash_url}')\ndef delete_short_url(hash_url: str, token: str =Header(None, alias='Authorization')):\n     return delete_long_short_url_handler(hash_url, token)\n@redirect.get('/{hash_url}')\ndef redirect_sto_long_url(hash_url: str, header: str =Header(None, alias='User-Agent')):",
+        "detail": "infra.routes.urls_route",
+        "documentation": {}
+    },
+    {
+        "label": "get_long_url_by_short_url",
+        "kind": 2,
+        "importPath": "infra.routes.urls_route",
+        "description": "infra.routes.urls_route",
+        "peekOfCode": "def get_long_url_by_short_url(hash_url: str, token: str =Header(None, alias='Authorization')):\n     return get_long_url_by_short_url_handler(hash_url, token)\n@shortened.delete('/delete-by/{hash_url}')\ndef delete_short_url(hash_url: str, token: str =Header(None, alias='Authorization')):\n     return delete_long_short_url_handler(hash_url, token)\n@redirect.get('/{hash_url}')\ndef redirect_sto_long_url(hash_url: str, header: str =Header(None, alias='User-Agent')):\n     return redirect_to_long_url_handler(hash_url, header)",
+        "detail": "infra.routes.urls_route",
+        "documentation": {}
+    },
+    {
+        "label": "delete_short_url",
+        "kind": 2,
+        "importPath": "infra.routes.urls_route",
+        "description": "infra.routes.urls_route",
+        "peekOfCode": "def delete_short_url(hash_url: str, token: str =Header(None, alias='Authorization')):\n     return delete_long_short_url_handler(hash_url, token)\n@redirect.get('/{hash_url}')\ndef redirect_sto_long_url(hash_url: str, header: str =Header(None, alias='User-Agent')):\n     return redirect_to_long_url_handler(hash_url, header)",
+        "detail": "infra.routes.urls_route",
+        "documentation": {}
+    },
+    {
+        "label": "redirect_sto_long_url",
+        "kind": 2,
+        "importPath": "infra.routes.urls_route",
+        "description": "infra.routes.urls_route",
+        "peekOfCode": "def redirect_sto_long_url(hash_url: str, header: str =Header(None, alias='User-Agent')):\n     return redirect_to_long_url_handler(hash_url, header)",
+        "detail": "infra.routes.urls_route",
+        "documentation": {}
+    },
+    {
+        "label": "shortened",
+        "kind": 5,
+        "importPath": "infra.routes.urls_route",
+        "description": "infra.routes.urls_route",
+        "peekOfCode": "shortened = APIRouter()\nredirect = APIRouter()\nsecurity = HTTPBasic()\n@shortened.post('/')\ndef create_short_url(long_url: ShortenedUrlRequestDTO, token: str =Header(None, alias='Authorization')):\n     return create_short_url_handler(long_url.long_url, token)\n@shortened.get('/record/register')\ndef get_all_short_url_used(token: str =Header(None, alias='Authorization')):\n     return get_all_short_url_used_handler(token)\n@shortened.get('/record/platforms/used')",
+        "detail": "infra.routes.urls_route",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "kind": 5,
+        "importPath": "infra.routes.urls_route",
+        "description": "infra.routes.urls_route",
+        "peekOfCode": "redirect = APIRouter()\nsecurity = HTTPBasic()\n@shortened.post('/')\ndef create_short_url(long_url: ShortenedUrlRequestDTO, token: str =Header(None, alias='Authorization')):\n     return create_short_url_handler(long_url.long_url, token)\n@shortened.get('/record/register')\ndef get_all_short_url_used(token: str =Header(None, alias='Authorization')):\n     return get_all_short_url_used_handler(token)\n@shortened.get('/record/platforms/used')\ndef get_all_platforms_and_browser_used(token: str =Header(None, alias='Authorization')):",
+        "detail": "infra.routes.urls_route",
+        "documentation": {}
+    },
+    {
+        "label": "security",
+        "kind": 5,
+        "importPath": "infra.routes.urls_route",
+        "description": "infra.routes.urls_route",
+        "peekOfCode": "security = HTTPBasic()\n@shortened.post('/')\ndef create_short_url(long_url: ShortenedUrlRequestDTO, token: str =Header(None, alias='Authorization')):\n     return create_short_url_handler(long_url.long_url, token)\n@shortened.get('/record/register')\ndef get_all_short_url_used(token: str =Header(None, alias='Authorization')):\n     return get_all_short_url_used_handler(token)\n@shortened.get('/record/platforms/used')\ndef get_all_platforms_and_browser_used(token: str =Header(None, alias='Authorization')):\n     return get_all_platforms_and_browser_used_handler(token)",
+        "detail": "infra.routes.urls_route",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "infra.routes.user_route",
+        "description": "infra.routes.user_route",
+        "peekOfCode": "def login(credentials: HTTPBasicCredentials):\n    return get_token_handler(credentials)",
+        "detail": "infra.routes.user_route",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "kind": 5,
+        "importPath": "infra.routes.user_route",
+        "description": "infra.routes.user_route",
+        "peekOfCode": "user = APIRouter()\nsecurity = HTTPBasic()\n@user.post('/login')\ndef login(credentials: HTTPBasicCredentials):\n    return get_token_handler(credentials)",
+        "detail": "infra.routes.user_route",
+        "documentation": {}
+    },
+    {
+        "label": "security",
+        "kind": 5,
+        "importPath": "infra.routes.user_route",
+        "description": "infra.routes.user_route",
+        "peekOfCode": "security = HTTPBasic()\n@user.post('/login')\ndef login(credentials: HTTPBasicCredentials):\n    return get_token_handler(credentials)",
+        "detail": "infra.routes.user_route",
+        "documentation": {}
+    },
+    {
+        "label": "decode_token_base",
+        "kind": 2,
+        "importPath": "infra.utils.functions",
+        "description": "infra.utils.functions",
+        "peekOfCode": "def decode_token_base(token: str)-> str:\n    try:\n     if token is not None:\n      only_token = token.split(' ')[1]\n      claims = jwt.decode(only_token, settings.jwt_secret, algorithms=['HS256'])\n      return claims['sub']\n    except DecodeError as e:\n     print(str(e))",
+        "detail": "infra.utils.functions",
+        "documentation": {}
+    }
+]
